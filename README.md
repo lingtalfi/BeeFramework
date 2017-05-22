@@ -24,4 +24,17 @@ Or just download it and place it where you want otherwise.
 HowTo
 ===========
 Sorry, there is no howto, it's an old framework, and still use some of its tools sometimes, 
-but there is no official doc for now. 
+but there is no official doc for now.
+ 
+ 
+ 
+History Log
+------------------
+    
+- 1.0.1 -- 2017-05-22
+
+    - add documentation to the ShortCodeTool
+    
+- 1.0.0 -- 2017-05-22
+
+    - initial commit 
