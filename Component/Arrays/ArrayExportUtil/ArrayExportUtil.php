@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Arrays\ArrayExportUtil;
+namespace BeeFramework\Component\Arrays\ArrayExportUtil;
 
-use Bee\Component\Arrays\ArrayExportUtil\Exception\ArrayExportUtilException;
-use Bee\Component\Arrays\ArrayExportUtil\SymbolsManager\ArrayExportUtilSymbolsManagerInterface;
+use BeeFramework\Component\Arrays\ArrayExportUtil\Exception\ArrayExportUtilException;
+use BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager\ArrayExportUtilSymbolsManagerInterface;
 
 
 /**
@@ -151,7 +151,7 @@ class ArrayExportUtil
             $file = __DIR__ . '/SymbolsManager/' . $class . '.php';
             if (file_exists($file)) {
                 require_once $file;
-                $class = 'Bee\Component\Arrays\ArrayExportUtil\SymbolsManager\\' . $class;
+                $class = 'BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager\\' . $class;
                 $this->symbolsManager = new $class();
             }
             else {

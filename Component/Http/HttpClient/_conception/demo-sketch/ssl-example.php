@@ -4,12 +4,12 @@
 
 //require_once 'alveolus/bee/boot/bam1.php';
 
-use Bee\Component\Http\HttpClient\BodyEntity\MultiPartBodyEntity;
-use Bee\Component\Http\HttpClient\Connexion\StreamConnexion;
-use Bee\Component\Http\HttpClient\CookieJar\CookieJar;
-use Bee\Component\Http\HttpClient\HttpClient;
-use Bee\Component\Http\HttpClient\Request\HttpRequest;
-use Bware\SymphoBee\Routing\Sombrero\Router\StaticSombreroRouter;
+use BeeFramework\Component\Http\HttpClient\BodyEntity\MultiPartBodyEntity;
+use BeeFramework\Component\Http\HttpClient\Connexion\StreamConnexion;
+use BeeFramework\Component\Http\HttpClient\CookieJar\CookieJar;
+use BeeFramework\Component\Http\HttpClient\HttpClient;
+use BeeFramework\Component\Http\HttpClient\Request\HttpRequest;
+use Bware\SymphoBeeFramework\Routing\Sombrero\Router\StaticSombreroRouter;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

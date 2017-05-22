@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyYaml\Tool;
+namespace BeeFramework\Notation\File\BabyYaml\Tool;
 
-use Bee\Notation\File\BabyYaml\Resolver\BabyYamlDashTreeResolver;
-use Bee\Notation\File\BabyYaml\Writer\BabyYamlWriter;
-use Bee\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use BeeFramework\Notation\File\BabyYaml\Resolver\BabyYamlDashTreeResolver;
+use BeeFramework\Notation\File\BabyYaml\Writer\BabyYamlWriter;
+use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
 
 
 /**

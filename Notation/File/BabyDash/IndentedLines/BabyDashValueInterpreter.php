@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,17 +9,17 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyDash\IndentedLines;
+namespace BeeFramework\Notation\File\BabyDash\IndentedLines;
 
-use Bee\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
-use Bee\Notation\String\LineParser\ExpressionParser\HybridExpressionParser;
-use Bee\Notation\String\LineParser\ExpressionParser\MappingContainerExpressionParser;
-use Bee\Notation\String\LineParser\ExpressionParser\QuotedExpressionParser;
-use Bee\Notation\String\LineParser\ExpressionParser\SequenceContainerExpressionParser;
-use Bee\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPile;
-use Bee\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPileInterface;
-use Bee\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use Bee\Notation\String\LineParser\NotationParser\SingleExpressionNotationParser;
+use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use BeeFramework\Notation\String\LineParser\ExpressionParser\HybridExpressionParser;
+use BeeFramework\Notation\String\LineParser\ExpressionParser\MappingContainerExpressionParser;
+use BeeFramework\Notation\String\LineParser\ExpressionParser\QuotedExpressionParser;
+use BeeFramework\Notation\String\LineParser\ExpressionParser\SequenceContainerExpressionParser;
+use BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPile;
+use BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPileInterface;
+use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use BeeFramework\Notation\String\LineParser\NotationParser\SingleExpressionNotationParser;
 
 
 /**

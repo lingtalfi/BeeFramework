@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biscotte;
+namespace BeeFramework\Notation\Service\Biscotte;
 
-use Bee\Notation\Service\Biscotte\Exception\BiscotteParserException;
-use Bee\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use Bee\Notation\WrappedString\Tool\CandyResolverTool;
+use BeeFramework\Notation\Service\Biscotte\Exception\BiscotteParserException;
+use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

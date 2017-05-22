@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\String\ShortCode\Tool;
+namespace BeeFramework\Notation\String\ShortCode\Tool;
 
-use Bee\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use Bee\Notation\String\ShortCode\LineParser\ShortCodeLineParser;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\ShortCodeExpressionDiscoverer;
+use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use BeeFramework\Notation\String\ShortCode\LineParser\ShortCodeLineParser;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\ShortCodeExpressionDiscoverer;
 
 
 /**

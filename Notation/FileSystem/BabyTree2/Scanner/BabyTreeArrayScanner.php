@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\FileSystem\BabyTree\Scanner;
+namespace BeeFramework\Notation\FileSystem\BabyTree\Scanner;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Component\FileSystem\DirScanner\DirScanner;
-use Bee\Notation\FileSystem\BabyTree\BabyTreeConst;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Component\FileSystem\DirScanner\DirScanner;
+use BeeFramework\Notation\FileSystem\BabyTree\BabyTreeConst;
 
 
 /**

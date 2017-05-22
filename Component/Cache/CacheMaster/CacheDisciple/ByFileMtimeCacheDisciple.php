@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Cache\CacheMaster\CacheDisciple;
+namespace BeeFramework\Component\Cache\CacheMaster\CacheDisciple;
 
-use Bee\Bat\ArrayTool;
-use Bee\Component\Cache\CacheMaster\Exception\CacheMasterException;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Component\Cache\CacheMaster\Exception\CacheMasterException;
 
 
 /**

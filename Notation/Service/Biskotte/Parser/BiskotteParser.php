@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,24 +9,24 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\Parser;
+namespace BeeFramework\Notation\Service\Biskotte\Parser;
 
-use Bee\Bat\BdotTool;
-use Bee\Bat\VarTool;
-use Bee\Notation\Service\Biskotte\Expander\BiskotteExpander;
-use Bee\Notation\Service\Biskotte\Parser\Adaptor\BiscotteParserAdaptorInterface;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatter;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatterInterface;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
-use Bee\Notation\WrappedString\Tool\CandyResolverTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Notation\Service\Biskotte\Expander\BiskotteExpander;
+use BeeFramework\Notation\Service\Biskotte\Parser\Adaptor\BiscotteParserAdaptorInterface;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatter;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatterInterface;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
+use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

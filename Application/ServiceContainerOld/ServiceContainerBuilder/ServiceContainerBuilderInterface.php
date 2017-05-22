@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use Bee\Application\ServiceContainer\ServiceContainer\ServiceContainerInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\ServiceContainerInterface;
 
 
 /**

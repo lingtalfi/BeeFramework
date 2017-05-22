@@ -1,8 +1,8 @@
 <?php
 
 
-use Bee\Component\Html\Crawler\Collection\Collection;
-use Bee\Component\Html\Crawler\Tool\CrawlerDevTool;
+use BeeFramework\Component\Html\Crawler\Collection\Collection;
+use BeeFramework\Component\Html\Crawler\Tool\CrawlerDevTool;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

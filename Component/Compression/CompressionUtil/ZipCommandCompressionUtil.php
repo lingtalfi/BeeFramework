@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Compression\CompressionUtil;
+namespace BeeFramework\Component\Compression\CompressionUtil;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\MachineTool;
-use Bee\Component\Compression\Tool\CompressionTool;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\MachineTool;
+use BeeFramework\Component\Compression\Tool\CompressionTool;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

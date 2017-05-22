@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biscotte\Util;
+namespace BeeFramework\Notation\Service\Biscotte\Util;
 
-use Bee\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use Bee\Notation\Service\Biscotte\LineParser\BiscotteInlineArgsParser;
-use Bee\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
+use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use BeeFramework\Notation\Service\Biscotte\LineParser\BiscotteInlineArgsParser;
+use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
 
 
 /**

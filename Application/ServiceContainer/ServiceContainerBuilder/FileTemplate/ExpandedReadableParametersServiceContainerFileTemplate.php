@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate;
 
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use Bee\Bat\DateTool;
-use Bee\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
-use Bee\Component\Template\FileTemplate\FileTemplate;
-use Bee\Notation\PhpArray\PrettyArrayExportUtil\PrettyArrayExportUtil;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Bat\DateTool;
+use BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
+use BeeFramework\Component\Template\FileTemplate\FileTemplate;
+use BeeFramework\Notation\PhpArray\PrettyArrayExportUtil\PrettyArrayExportUtil;
 
 
 /**

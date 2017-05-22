@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Html\MarkDown\MarkDown;
+namespace BeeFramework\Notation\Html\MarkDown\MarkDown;
 
-use Bee\Component\Text\TextConvertor\TextConvertor;
-use Bee\Notation\Html\MarkDown\MarkDown\Filter\FlattenBlockElementsFilter;
-use Bee\Notation\Html\MarkDown\MarkDown\Filter\ParagraphFilter;
+use BeeFramework\Component\Text\TextConvertor\TextConvertor;
+use BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\FlattenBlockElementsFilter;
+use BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\ParagraphFilter;
 
 
 /**

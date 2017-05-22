@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyYaml\IndentedLines;
+namespace BeeFramework\Notation\File\BabyYaml\IndentedLines;
 
-use Bee\Notation\File\BabyYaml\StringParser\BabyYamlLineExpressionDiscoverer;
-use Bee\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use BeeFramework\Notation\File\BabyYaml\StringParser\BabyYamlLineExpressionDiscoverer;
+use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
 
 
 /**

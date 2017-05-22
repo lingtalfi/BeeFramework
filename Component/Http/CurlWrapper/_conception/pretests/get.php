@@ -4,10 +4,10 @@
 
 //require_once 'alveolus/bee/boot/bam1.php';
 
-use Bee\Component\Http\CurlWrapper\Connexion\CurlConnexion;
-use Bee\Component\Http\CurlWrapper\Wrapper\GetCurlWrapper;
-use Bee\Component\Http\HttpHeadersParser\HttpHeadersParser;
-use Bware\SymphoBee\Routing\Sombrero\Router\StaticSombreroRouter;
+use BeeFramework\Component\Http\CurlWrapper\Connexion\CurlConnexion;
+use BeeFramework\Component\Http\CurlWrapper\Wrapper\GetCurlWrapper;
+use BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParser;
+use Bware\SymphoBeeFramework\Routing\Sombrero\Router\StaticSombreroRouter;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

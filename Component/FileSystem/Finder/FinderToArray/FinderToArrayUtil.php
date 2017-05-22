@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\FileSystem\Finder\FinderToArray;
+namespace BeeFramework\Component\FileSystem\Finder\FinderToArray;
 
-use Bee\Component\FileSystem\Finder\BaseFinder;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\BaseFinder;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
 
 
 /**

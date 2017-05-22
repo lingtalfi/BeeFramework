@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\ContainerBuilder;
+namespace BeeFramework\Notation\Service\Biskotte\ContainerBuilder;
 
-use Bee\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
-use Bee\Application\ServiceContainer\ServiceContainer\HotServiceContainerInterface;
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use Bee\Component\Bag\ReadOnlyBdotBag;
-use Bee\Notation\Service\Biskotte\Parser\Adaptor\AppRootDirBiscotteParserAdaptor;
-use Bee\Notation\Service\Biskotte\Parser\BiskotteParser;
-use Bee\Notation\Service\Biskotte\ServiceContainer\BiscHotServiceContainer;
-use Bee\Notation\WrappedString\Tool\CandyResolverTool;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\HotServiceContainerInterface;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Component\Bag\ReadOnlyBdotBag;
+use BeeFramework\Notation\Service\Biskotte\Parser\Adaptor\AppRootDirBiscotteParserAdaptor;
+use BeeFramework\Notation\Service\Biskotte\Parser\BiskotteParser;
+use BeeFramework\Notation\Service\Biskotte\ServiceContainer\BiscHotServiceContainer;
+use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

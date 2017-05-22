@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Db\PdoConnectionManager;
+namespace BeeFramework\Component\Db\PdoConnectionManager;
 
-use Bee\Bat\ArrayTool;
-use Bee\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**
@@ -134,7 +134,7 @@ class PdoConnectionManager implements PdoConnectionManagerInterface
     //------------------------------------------------------------------------------/
     protected function log($id, $msg)
     {
-        SuperLogger::getInst()->log("Bee.Db.PdoConnectionManager." . $id, $msg);
+        SuperLogger::getInst()->log("BeeFramework.Db.PdoConnectionManager." . $id, $msg);
     }
 
     protected function resolvePdoConstants(array $pdoOptions)

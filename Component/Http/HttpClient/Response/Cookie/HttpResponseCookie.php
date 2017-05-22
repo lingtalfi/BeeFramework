@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\Response\Cookie;
+namespace BeeFramework\Component\Http\HttpClient\Response\Cookie;
 
-use Bee\Component\Http\HttpClient\Exception\HttpClientException;
+use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\Kernel\Kcp;
+namespace BeeFramework\Application\Kernel\Kcp;
 
-use Bee\Application\Kernel\KernelInterface;
-use Bee\Application\ServiceContainer\ServiceContainer\ContainerInterface;
+use BeeFramework\Application\Kernel\KernelInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\ContainerInterface;
 
 
 /**

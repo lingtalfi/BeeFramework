@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\WrappedString\Util;
+namespace BeeFramework\Notation\WrappedString\Util;
 
-use Bee\Notation\WrappedString\Tool\WrappedStringTool;
-use Bee\Bat\BdotTool;
-use Bee\Notation\WrappedString\Util\Exception\WrappedStringUtilCircularException;
-use Bee\Notation\WrappedString\Util\Exception\WrappedStringUtilException;
+use BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilCircularException;
+use BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilException;
 
 
 /**

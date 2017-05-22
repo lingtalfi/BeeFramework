@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator;
 
-use Bee\Bat\FileTool;
-use Bee\Component\FileSystem\FileAggregator\InPoolTagsFileAggregator;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Bat\FileTool;
+use BeeFramework\Component\FileSystem\FileAggregator\InPoolTagsFileAggregator;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
 
 
 /**

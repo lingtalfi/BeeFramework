@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Db\PdoInstances;
+namespace BeeFramework\Component\Db\PdoInstances;
 
-use Bee\Bat\ArrayTool;
-use Bee\Component\Db\PdoInstances\Exception\PdoInstancesException;
-use Bee\Component\Db\PdoInstances\PdoInstancesInterface;
-use Bee\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Component\Db\PdoInstances\Exception\PdoInstancesException;
+use BeeFramework\Component\Db\PdoInstances\PdoInstancesInterface;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

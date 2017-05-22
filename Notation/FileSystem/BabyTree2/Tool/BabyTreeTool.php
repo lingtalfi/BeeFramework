@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\FileSystem\BabyTree\Tool;
+namespace BeeFramework\Notation\FileSystem\BabyTree\Tool;
 
-use Bee\Notation\FileSystem\BabyTree\Scanner\BabyTreeArrayScanner;
+use BeeFramework\Notation\FileSystem\BabyTree\Scanner\BabyTreeArrayScanner;
 
 
 /**

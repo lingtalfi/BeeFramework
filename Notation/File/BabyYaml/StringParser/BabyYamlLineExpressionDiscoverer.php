@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyYaml\StringParser;
+namespace BeeFramework\Notation\File\BabyYaml\StringParser;
 
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Container\MappingContainerExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Container\SequenceContainerExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PolyExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\MappingContainerExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\SequenceContainerExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PolyExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

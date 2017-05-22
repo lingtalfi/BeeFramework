@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\StringParser;
+namespace BeeFramework\Notation\Service\Biskotte\StringParser;
 
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use Bee\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

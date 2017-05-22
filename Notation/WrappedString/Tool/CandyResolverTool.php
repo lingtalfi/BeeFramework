@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\WrappedString\Tool;
+namespace BeeFramework\Notation\WrappedString\Tool;
 
 
-use Bee\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
-use Bee\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
-use Bee\Bat\StringTool;
-use Bee\Bat\VarTool;
-use Bee\Bat\BdotTool;
-use Bee\Notation\WrappedString\Util\WrappedStringResolverUtil;
+use BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
+use BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
+use BeeFramework\Bat\StringTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Notation\WrappedString\Util\WrappedStringResolverUtil;
 
 /**
  * CandyResolverTool

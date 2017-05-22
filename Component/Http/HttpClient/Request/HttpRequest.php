@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\Request;
+namespace BeeFramework\Component\Http\HttpClient\Request;
 
-use Bee\Component\Bag\Bag;
-use Bee\Component\Bag\BagInterface;
-use Bee\Component\Http\HttpClient\BodyEntity\BodyEntityInterface;
-use Bee\Component\Http\HttpClient\Exception\HttpClientException;
-use Bee\Component\Http\HttpClient\Request\Body\HttpRequestBodyInterface;
+use BeeFramework\Component\Bag\Bag;
+use BeeFramework\Component\Bag\BagInterface;
+use BeeFramework\Component\Http\HttpClient\BodyEntity\BodyEntityInterface;
+use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use BeeFramework\Component\Http\HttpClient\Request\Body\HttpRequestBodyInterface;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Variable\InlineVariableUtil;
+namespace BeeFramework\Notation\Variable\InlineVariableUtil;
 
-use Bee\Notation\Variable\InlineVariableUtil\Adaptor\CallableInlineVariableUtilAdaptor;
-use Bee\Notation\Variable\InlineVariableUtil\Adaptor\ClosureInlineVariableUtilAdaptor;
-use Bee\Notation\Variable\InlineVariableUtil\Adaptor\InlineVariableUtilAdaptorInterface;
-use Bee\Notation\Variable\InlineVariableUtil\Adaptor\PhpTypeInlineVariableUtilAdaptor;
+use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\CallableInlineVariableUtilAdaptor;
+use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\ClosureInlineVariableUtilAdaptor;
+use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\InlineVariableUtilAdaptorInterface;
+use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpTypeInlineVariableUtilAdaptor;
 
 
 /**

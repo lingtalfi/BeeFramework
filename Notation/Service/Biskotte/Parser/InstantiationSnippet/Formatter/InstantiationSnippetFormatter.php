@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
+namespace BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
 
-use Bee\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
-use Bee\Notation\Service\Biskotte\Exception\BiskotteException;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ParameterRefSpecialArg;
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
+use BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
+use BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ParameterRefSpecialArg;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
 
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
 
 
 /**

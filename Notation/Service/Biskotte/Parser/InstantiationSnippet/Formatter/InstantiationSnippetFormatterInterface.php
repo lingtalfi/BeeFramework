@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
+namespace BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
 
-use Bee\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
+use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
 
 
 /**

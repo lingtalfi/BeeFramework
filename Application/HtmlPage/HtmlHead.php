@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\HtmlPage;
+namespace BeeFramework\Application\HtmlPage;
 
-use Bee\Bat\HtmlTool;
-use Bee\Bat\StringTool;
+use BeeFramework\Bat\HtmlTool;
+use BeeFramework\Bat\StringTool;
 
 
 /**

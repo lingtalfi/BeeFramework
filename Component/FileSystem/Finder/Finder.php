@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -10,15 +10,15 @@
  */
 
 
-namespace Bee\Component\FileSystem\Finder;
+namespace BeeFramework\Component\FileSystem\Finder;
 
-use Bee\Component\FileSystem\Finder\Filter\BaseNameFinderFilter;
-use Bee\Component\FileSystem\Finder\Filter\ComponentsPathFinderFilter;
-use Bee\Component\FileSystem\Finder\Filter\ExtensionFinderFilter;
-use Bee\Component\FileSystem\Finder\Filter\MaxDepthFinderFilter;
-use Bee\Component\FileSystem\Finder\Filter\Tool\TypeTool;
-use Bee\Component\FileSystem\Finder\Filter\TypeAndBaseNameFinderFilter;
-use Bee\Component\FileSystem\Finder\Filter\TypeFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\BaseNameFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\ComponentsPathFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\ExtensionFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\MaxDepthFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\Tool\TypeTool;
+use BeeFramework\Component\FileSystem\Finder\Filter\TypeAndBaseNameFinderFilter;
+use BeeFramework\Component\FileSystem\Finder\Filter\TypeFinderFilter;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\PhpArray\ArrayWithSelfReferences;
+namespace BeeFramework\Notation\PhpArray\ArrayWithSelfReferences;
 
-use Bee\Bat\BdotTool;
-use Bee\Notation\PhpArray\ArrayWithSelfReferences\Exception\ArrayWithSelfReferencesCircularException;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\Exception\ArrayWithSelfReferencesCircularException;
 
 
 /**

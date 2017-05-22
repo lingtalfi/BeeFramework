@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Log\SuperLogger\Traits;
+namespace BeeFramework\Component\Log\SuperLogger\Traits;
 
 
-use Bee\Component\Log\SuperLogger\SuperLogger;
+use BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

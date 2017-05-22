@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Log\SuperLogger\Listener;
+namespace BeeFramework\Component\Log\SuperLogger\Listener;
 
-use Bee\Component\Log\SuperLogger\Message\MessageInterface;
+use BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
 use Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
 
 

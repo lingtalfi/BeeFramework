@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\CurlWrapper\Connexion;
+namespace BeeFramework\Component\Http\CurlWrapper\Connexion;
 
-use Bee\Component\Http\CurlWrapper\Exception\CurlWrapperException;
-use Bee\Component\Http\CurlWrapper\Tool\CurlWrapperTool;
+use BeeFramework\Component\Http\CurlWrapper\Exception\CurlWrapperException;
+use BeeFramework\Component\Http\CurlWrapper\Tool\CurlWrapperTool;
 
 
 /**

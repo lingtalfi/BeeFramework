@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Devil\Test\Beast;
+namespace BeeFramework\Devil\Test\Beast;
 
-use Bee\Bat\DebugTool;
-use Bee\Bat\VarTool;
-use Bee\Devil\Test\Beast\Tools\BeastEngineTool;
-use Bee\Bat\BdotTool;
+use BeeFramework\Bat\DebugTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Devil\Test\Beast\Tools\BeastEngineTool;
+use BeeFramework\Bat\BdotTool;
 
 
 /**

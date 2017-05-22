@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\IndentedLines\NodeTreeBuilder;
+namespace BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder;
 
-use Bee\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use Bee\Notation\File\IndentedLines\KeyFinder\KeyFinder;
-use Bee\Notation\File\IndentedLines\KeyFinder\KeyFinderInterface;
-use Bee\Notation\File\IndentedLines\MultiLineCompiler\MultiLineCompilerInterface;
-use Bee\Notation\File\IndentedLines\MultiLineCompiler\WithLeftMarginMultiLineCompiler;
-use Bee\Notation\File\IndentedLines\MultiLineDelimiter\MultiLineDelimiterInterface;
-use Bee\Notation\File\IndentedLines\MultiLineDelimiter\SingleCharMultiLineDelimiter;
-use Bee\Notation\File\IndentedLines\Node\Node;
-use Bee\Notation\File\IndentedLines\Node\NodeInterface;
-use Bee\Component\Error\CodifiedErrors\Traits\CodifiedErrorsTrait;
+use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinder;
+use BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinderInterface;
+use BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\MultiLineCompilerInterface;
+use BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\WithLeftMarginMultiLineCompiler;
+use BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\MultiLineDelimiterInterface;
+use BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\SingleCharMultiLineDelimiter;
+use BeeFramework\Notation\File\IndentedLines\Node\Node;
+use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use BeeFramework\Component\Error\CodifiedErrors\Traits\CodifiedErrorsTrait;
 
 
 /**

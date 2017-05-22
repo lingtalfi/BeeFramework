@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainer;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainer;
 
-use Bee\Application\ServiceContainer\ServiceContainer\Exception\FrozenHotServiceContainerException;
-use Bee\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\FrozenHotServiceContainerException;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Lang\Translator\CatalogLoader;
+namespace BeeFramework\Component\Lang\Translator\CatalogLoader;
 
 
-use Bee\Component\Lang\Translator\Catalog\CatalogInterface;
-use Bee\Component\Lang\Translator\Catalog\Catalog;
-use Bee\Notation\File\BabyXml\Util\BabyXmlTool;
+use BeeFramework\Component\Lang\Translator\Catalog\CatalogInterface;
+use BeeFramework\Component\Lang\Translator\Catalog\Catalog;
+use BeeFramework\Notation\File\BabyXml\Util\BabyXmlTool;
 
 
 /**

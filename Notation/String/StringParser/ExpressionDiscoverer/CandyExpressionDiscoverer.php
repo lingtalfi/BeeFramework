@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\String\StringParser\ExpressionDiscoverer;
+namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer;
 
-use Bee\Bat\Escaping\EscapeTool;
-use Bee\Bat\QuoteTool;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
-use Bee\Notation\WrappedString\Tool\WrappedStringTool;
+use BeeFramework\Bat\Escaping\EscapeTool;
+use BeeFramework\Bat\QuoteTool;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
+use BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
 
 
 /**

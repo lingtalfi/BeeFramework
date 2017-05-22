@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Devil\Test\Beast\Tools;
+namespace BeeFramework\Devil\Test\Beast\Tools;
 
-use Bee\Bat\DebugTool;
-use Bee\Bat\HtmlTool;
-use Bee\Bat\VarTool;
-use Bee\Devil\Diff\LongestCommonSubsequence\LongestCommonSubsequenceTool;
+use BeeFramework\Bat\DebugTool;
+use BeeFramework\Bat\HtmlTool;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Devil\Diff\LongestCommonSubsequence\LongestCommonSubsequenceTool;
 
 
 /**

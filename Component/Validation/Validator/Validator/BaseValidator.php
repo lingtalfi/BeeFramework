@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Validation\Validator\Validator;
+namespace BeeFramework\Component\Validation\Validator\Validator;
 
-use Bee\Bat\VarTool;
-use Bee\Component\Validation\Validator\ValidatorResult\ValidatorResult;
-use Bee\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
-use Bee\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResult;
+use BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
+use BeeFramework\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
 
 
 /**

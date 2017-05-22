@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyYaml\Reader;
+namespace BeeFramework\Notation\File\BabyYaml\Reader;
 
-use Bee\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use Bee\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use Bee\Notation\File\BabyYaml\Exception\BabyYamlException;
-use Bee\Notation\File\BabyYaml\IndentedLines\BabyYamlNodeTreeBuilder;
-use Bee\Notation\File\BabyYaml\IndentedLines\BabyYamlValueInterpreter;
-use Bee\Notation\File\IndentedLines\Node\NodeInterface;
-use Bee\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
-use Bee\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
-use Bee\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
-use Bee\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use BeeFramework\Notation\File\BabyYaml\Exception\BabyYamlException;
+use BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlNodeTreeBuilder;
+use BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlValueInterpreter;
+use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
+use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
+use BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
+use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
 
 
 /**

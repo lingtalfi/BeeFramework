@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\CookieJar;
+namespace BeeFramework\Component\Http\HttpClient\CookieJar;
 
-use Bee\Component\Http\HttpClient\Exception\HttpClientException;
-use Bee\Component\Http\HttpClient\Request\HttpRequestInterface;
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
 
 
 /**

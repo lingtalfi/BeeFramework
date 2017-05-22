@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Mail\SmtpMailer;
+namespace BeeFramework\Component\Mail\SmtpMailer;
 
-use Bee\Bat\VarTool;
-use Bee\Chemical\Errors\Voles\VersatileErrorsTrait;
-use Bee\Component\Mail\SmtpMailer\Exception\SmtpMailerException;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
+use BeeFramework\Component\Mail\SmtpMailer\Exception\SmtpMailerException;
 
 
 /**

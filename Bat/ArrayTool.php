@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Bat;
+namespace BeeFramework\Bat;
 
-use Bee\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
-use Bee\Component\Html\ArrayToUl\ArrayToUlAdaptor;
-use Bee\Bat\BdotTool;
+use BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
+use BeeFramework\Component\Html\ArrayToUl\ArrayToUlAdaptor;
+use BeeFramework\Bat\BdotTool;
 
 
 /**

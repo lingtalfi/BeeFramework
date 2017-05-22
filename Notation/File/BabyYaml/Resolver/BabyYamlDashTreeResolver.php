@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyYaml\Resolver;
+namespace BeeFramework\Notation\File\BabyYaml\Resolver;
 
-use Bee\Bat\QuoteTool;
+use BeeFramework\Bat\QuoteTool;
 
-use Bee\Notation\File\BabyYaml\Reader\BabyYamlInlineReader;
-use Bee\Notation\PhpArray\DashTree\DashTreeNode;
-use Bee\Notation\PhpArray\DashTree\Resolver\VirtualKeyDashTreeResolver;
-use Bee\Notation\String\InlineNotation\InlineNotationTool;
+use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlInlineReader;
+use BeeFramework\Notation\PhpArray\DashTree\DashTreeNode;
+use BeeFramework\Notation\PhpArray\DashTree\Resolver\VirtualKeyDashTreeResolver;
+use BeeFramework\Notation\String\InlineNotation\InlineNotationTool;
 
 
 /**

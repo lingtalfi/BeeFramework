@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use Bee\Application\Config\Util\FeeConfig;
-use Bee\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
-use Bee\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
-use Bee\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator\ServiceContainerBuilderPcfFileAggregator;
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use Bee\Application\ServiceContainer\Tool\HotServiceContainerTool;
-use Bee\Bat\ArrayTool;
-use Bee\Bat\BdotTool;
-use Bee\Notation\Service\Biscotte\Util\BiscotteParserExpanderUtil;
-use Bee\Notation\WrappedString\Tool\CandyResolverTool;
+use BeeFramework\Application\Config\Util\FeeConfig;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator\ServiceContainerBuilderPcfFileAggregator;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Application\ServiceContainer\Tool\HotServiceContainerTool;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Notation\Service\Biscotte\Util\BiscotteParserExpanderUtil;
+use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -10,7 +10,7 @@
  */
 
 
-namespace Bee\Component\Bag;
+namespace BeeFramework\Component\Bag;
 
 
 /**

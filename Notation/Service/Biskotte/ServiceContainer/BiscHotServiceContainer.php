@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Service\Biskotte\ServiceContainer;
+namespace BeeFramework\Notation\Service\Biskotte\ServiceContainer;
 
-use Bee\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
-use Bee\Chemical\Parameters\WithReadOnlyParameterBagInterface;
-use Bee\Component\Bag\ReadOnlyBagInterface;
-use Bee\Component\Bag\ReadOnlyBdotBag;
-use Bee\Notation\Service\Biskotte\Exception\BiskotteException;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
+use BeeFramework\Chemical\Parameters\WithReadOnlyParameterBagInterface;
+use BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use BeeFramework\Component\Bag\ReadOnlyBdotBag;
+use BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\CookieJar;
-use Bee\Component\Http\HttpClient\Request\HttpRequestInterface;
+namespace BeeFramework\Component\Http\HttpClient\CookieJar;
+use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
 
 
 /**

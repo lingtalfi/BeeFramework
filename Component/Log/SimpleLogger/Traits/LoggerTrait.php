@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Log\SimpleLogger\Traits;
+namespace BeeFramework\Component\Log\SimpleLogger\Traits;
 
-use Bee\Bat\VarTool;
-use Bee\Component\Log\SimpleLogger\SimpleLogger;
-use Bee\Component\Log\SimpleLogger\SimpleLoggerInterface;
+use BeeFramework\Bat\VarTool;
+use BeeFramework\Component\Log\SimpleLogger\SimpleLogger;
+use BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
 
 
 /**

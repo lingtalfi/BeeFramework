@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Log\FileRotator;
+namespace BeeFramework\Component\Log\FileRotator;
 
-use Bee\Bat\ConvertTool;
-use Bee\Bat\DateTool;
-use Bee\Bat\FileSystemTool;
+use BeeFramework\Bat\ConvertTool;
+use BeeFramework\Bat\DateTool;
+use BeeFramework\Bat\FileSystemTool;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\Kernel\Kcp\Chameleon\Chopin;
+namespace BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin;
 
-use Bee\Application\Kernel\Kcp\Chameleon\ChameleonKernel;
-use Bee\Application\Kernel\Kcp\Chameleon\Chopin\Tool\ChopinPcfFinderTool;
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use Bee\Component\Cache\CacheMaster\CacheMaster;
-use Bee\Component\Cache\CacheMaster\CacheMasterInterface;
-use Bee\Component\Cache\CacheMaster\FileSystemCacheMaster;
-use Bee\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
-use Bee\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use Bee\Bat\BdotTool;
-use Bee\Notation\Service\Biscotte\BiscotteParser;
+use BeeFramework\Application\Kernel\Kcp\Chameleon\ChameleonKernel;
+use BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool\ChopinPcfFinderTool;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Component\Cache\CacheMaster\CacheMaster;
+use BeeFramework\Component\Cache\CacheMaster\CacheMasterInterface;
+use BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
+use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
+use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use BeeFramework\Bat\BdotTool;
+use BeeFramework\Notation\Service\Biscotte\BiscotteParser;
 
 
 /**

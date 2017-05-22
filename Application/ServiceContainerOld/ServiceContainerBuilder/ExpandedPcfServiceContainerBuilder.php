@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use Bee\Application\ServiceContainer\ServiceContainer\TransparentServiceContainerInterface;
-use Bee\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate\ExpandedReadableParametersServiceContainerFileTemplate;
-use Bee\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use Bee\Bat\ArrayTool;
-use Bee\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
-use Bee\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
-use Bee\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use Bee\Exception\FileSystemException;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\TransparentServiceContainerInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate\ExpandedReadableParametersServiceContainerFileTemplate;
+use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
+use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
+use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use BeeFramework\Exception\FileSystemException;
 
 
 /**

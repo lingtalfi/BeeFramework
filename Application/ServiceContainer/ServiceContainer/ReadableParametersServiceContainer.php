@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainer;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainer;
 
-use Bee\Application\ParameterBag\BdotParameterBag;
-use Bee\Application\ParameterBag\ParameterBagInterface;
-use Bee\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
-use Bee\Bat\BdotTool;
+use BeeFramework\Application\ParameterBag\BdotParameterBag;
+use BeeFramework\Application\ParameterBag\ParameterBagInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
+use BeeFramework\Bat\BdotTool;
 
 
 /**

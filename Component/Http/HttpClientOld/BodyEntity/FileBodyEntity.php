@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\BodyEntity;
+namespace BeeFramework\Component\Http\HttpClient\BodyEntity;
 
-use Bee\Bat\MimeTypeTool;
-use Bee\Component\Http\HttpClient\Exception\HttpClientException;
+use BeeFramework\Bat\MimeTypeTool;
+use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
 
 
 /**

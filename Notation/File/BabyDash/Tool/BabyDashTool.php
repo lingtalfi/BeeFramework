@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyDash\Tool;
+namespace BeeFramework\Notation\File\BabyDash\Tool;
 
-use Bee\Notation\File\BabyDash\Exception\BabyDashException;
-use Bee\Notation\File\BabyDash\Reader\BabyDashReader;
+use BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
+use BeeFramework\Notation\File\BabyDash\Reader\BabyDashReader;
 
 
 /**

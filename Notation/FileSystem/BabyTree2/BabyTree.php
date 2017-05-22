@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\FileSystem\BabyTree;
+namespace BeeFramework\Notation\FileSystem\BabyTree;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\FileTool;
-use Bee\Notation\FileSystem\BabyTree\ArrayEntryFormatter\DebugArrayEntryFormatter;
-use Bee\Notation\FileSystem\BabyTree\ArrayEntryFormatter\NotationArrayEntryFormatter;
-use Bee\Notation\FileSystem\BabyTree\Forker\ForkerUtil;
-use Bee\Notation\FileSystem\BabyTree\Scanner\BabyTreeNotationScanner;
-use Bee\Component\FileSystem\Finder\Finder;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\FileTool;
+use BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\DebugArrayEntryFormatter;
+use BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\NotationArrayEntryFormatter;
+use BeeFramework\Notation\FileSystem\BabyTree\Forker\ForkerUtil;
+use BeeFramework\Notation\FileSystem\BabyTree\Scanner\BabyTreeNotationScanner;
+use BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

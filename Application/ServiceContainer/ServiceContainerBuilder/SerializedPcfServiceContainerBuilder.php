@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\ServiceContainer\ServiceContainerBuilder;
+namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use Bee\Bat\ArrayTool;
-use Bee\Component\Cache\CacheMaster\CacheDisciple\ByFileMtimeCacheDisciple;
-use Bee\Component\Cache\CacheMaster\CacheDisciple\CacheDiscipleInterface;
-use Bee\Component\Cache\CacheMaster\FileSystemCacheMaster;
+use BeeFramework\Bat\ArrayTool;
+use BeeFramework\Component\Cache\CacheMaster\CacheDisciple\ByFileMtimeCacheDisciple;
+use BeeFramework\Component\Cache\CacheMaster\CacheDisciple\CacheDiscipleInterface;
+use BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Log\SuperLogger\Listener;
+namespace BeeFramework\Component\Log\SuperLogger\Listener;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Component\Log\FileRotator\BySizeFileRotator;
-use Bee\Component\Log\FileRotator\FileRotatorInterface;
-use Bee\Component\Log\SuperLogger\Message\MessageInterface;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
+use BeeFramework\Component\Log\FileRotator\FileRotatorInterface;
+use BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
 
 
 /**

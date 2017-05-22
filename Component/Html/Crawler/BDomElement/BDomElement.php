@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Html\Crawler\BDomElement;
+namespace BeeFramework\Component\Html\Crawler\BDomElement;
 
-use Bee\Bat\StringTool;
-use Bee\Component\Html\Crawler\Tool\CrawlerDevTool;
+use BeeFramework\Bat\StringTool;
+use BeeFramework\Component\Html\Crawler\Tool\CrawlerDevTool;
 
 
 /**

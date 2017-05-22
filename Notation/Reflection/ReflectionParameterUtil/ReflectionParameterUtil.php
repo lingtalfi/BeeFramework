@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\Reflection\ReflectionParameterUtil;
+namespace BeeFramework\Notation\Reflection\ReflectionParameterUtil;
 
-use Bee\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
-use Bee\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
+use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
+use BeeFramework\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
 
 
 /**

@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\Application;
+namespace BeeFramework\Application\Application;
 
-use Bee\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
-use Bee\Application\ServiceContainer\ServiceContainerBuilder\ExpandedPcfServiceContainerBuilder;
+use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
+use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\ExpandedPcfServiceContainerBuilder;
 
 
 /**
- * BeeApp
+ * BeeFrameworkApp
  * @author Lingtalfi
  * 2015-03-09
  *
- * BeeApp basically provides access to a (readable parameters) service container.
+ * BeeFrameworkApp basically provides access to a (readable parameters) service container.
  * It's a singleton, so every part of your code can gain access to it (if you use it).
  *
- * BeeApp follows some structure conventions,
+ * BeeFrameworkApp follows some structure conventions,
  * so that just the rootDir can be passed to the boot method.
  *
  * - rootDir:
@@ -37,7 +37,7 @@ use Bee\Application\ServiceContainer\ServiceContainerBuilder\ExpandedPcfServiceC
  *
  *
  */
-class BeeApp
+class BeeFrameworkApp
 {
 
     protected $rootDir;
@@ -76,12 +76,12 @@ class BeeApp
 
 
     /**
-     * @return BeeApp
+     * @return BeeFrameworkApp
      */
     public static function getInst()
     {
         if (null === self::$inst) {
-            throw new \LogicException("BeeApp must be booted before you can call getInst");
+            throw new \LogicException("BeeFrameworkApp must be booted before you can call getInst");
         }
         return self::$inst;
     }

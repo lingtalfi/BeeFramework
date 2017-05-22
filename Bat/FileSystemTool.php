@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Bat;
+namespace BeeFramework\Bat;
 
-use Bee\Component\FileSystem\DirCopy\DirCopyUtil;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
-use Bee\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
+use BeeFramework\Component\FileSystem\DirCopy\DirCopyUtil;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
+use BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
 
 
 /**

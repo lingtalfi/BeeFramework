@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Http\HttpClient\Response;
+namespace BeeFramework\Component\Http\HttpClient\Response;
 
-use Bee\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
-use Bee\Component\Bag\ReadOnlyBag;
-use Bee\Component\Bag\ReadOnlyBagInterface;
-use Bee\Component\Http\HttpClient\Exception\HttpClientException;
-use Bee\Component\Http\HttpHeadersParser\HttpHeadersParser;
-use Bee\Component\Http\HttpHeadersParser\HttpHeadersParserInterface;
+use BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
+use BeeFramework\Component\Bag\ReadOnlyBag;
+use BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParser;
+use BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParserInterface;
 
 
 /**

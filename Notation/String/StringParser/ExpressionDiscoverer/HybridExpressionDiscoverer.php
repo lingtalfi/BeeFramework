@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\String\StringParser\ExpressionDiscoverer;
+namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer;
 
-use Bee\Bat\StringTool;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\Exception\HybridCommentException;
+use BeeFramework\Bat\StringTool;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Exception\HybridCommentException;
 
 
 /**

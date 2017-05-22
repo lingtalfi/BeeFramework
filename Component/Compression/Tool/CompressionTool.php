@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Component\Compression\Tool;
+namespace BeeFramework\Component\Compression\Tool;
 
-use Bee\Bat\FileSystemTool;
-use Bee\Bat\FileTool;
-use Bee\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
-use Bee\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
+use BeeFramework\Bat\FileSystemTool;
+use BeeFramework\Bat\FileTool;
+use BeeFramework\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
+use BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
 
 
 /**

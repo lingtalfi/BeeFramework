@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\File\BabyDash\Reader;
+namespace BeeFramework\Notation\File\BabyDash\Reader;
 
-use Bee\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use Bee\Notation\File\BabyDash\Exception\BabyDashException;
-use Bee\Notation\File\BabyDash\IndentedLines\BabyDashNodeTreeBuilder;
-use Bee\Notation\File\BabyDash\IndentedLines\BabyDashValueInterpreter;
-use Bee\Notation\File\IndentedLines\Node\NodeInterface;
-use Bee\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
-use Bee\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
-use Bee\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
+use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
+use BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashNodeTreeBuilder;
+use BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashValueInterpreter;
+use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
+use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
+use BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
 
 
 /**

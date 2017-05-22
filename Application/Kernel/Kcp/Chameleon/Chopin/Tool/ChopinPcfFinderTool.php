@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Application\Kernel\Kcp\Chameleon\Chopin\Tool;
+namespace BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool;
 
-use Bee\Component\FileSystem\Caterpillar\CaterpillarTool;
-use Bee\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use Bee\Component\FileSystem\Finder\Finder;
+use BeeFramework\Component\FileSystem\Caterpillar\CaterpillarTool;
+use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

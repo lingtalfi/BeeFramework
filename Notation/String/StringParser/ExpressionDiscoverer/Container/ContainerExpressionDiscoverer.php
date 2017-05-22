@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the Bee package.
+ * This file is part of the BeeFramework package.
  *
  * (c) Ling Talfi <lingtalfi@bee-framework.org>
  *
@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace Bee\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use Bee\Component\String\StringIterator\StringIterator;
-use Bee\Component\String\StringIterator\StringIteratorInterface;
-use Bee\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
+use BeeFramework\Component\String\StringIterator\StringIterator;
+use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
 use Komin\Component\Monitor\Traits\ClassicMonitorTrait;
 
 
