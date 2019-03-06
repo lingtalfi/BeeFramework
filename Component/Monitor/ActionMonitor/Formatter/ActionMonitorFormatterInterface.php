@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Monitor\ActionMonitor\Formatter;
+namespace Ling\BeeFramework\Component\Monitor\ActionMonitor\Formatter;
 
 
 /**

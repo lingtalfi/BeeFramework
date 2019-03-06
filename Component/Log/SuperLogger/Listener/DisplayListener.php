@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SuperLogger\Listener;
+namespace Ling\BeeFramework\Component\Log\SuperLogger\Listener;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
-use BeeFramework\Component\Log\FileRotator\FileRotatorInterface;
-use BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Component\Log\FileRotator\BySizeFileRotator;
+use Ling\BeeFramework\Component\Log\FileRotator\FileRotatorInterface;
+use Ling\BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
 
 
 /**

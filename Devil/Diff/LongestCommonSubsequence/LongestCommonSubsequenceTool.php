@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\Diff\LongestCommonSubsequence;
+namespace Ling\BeeFramework\Devil\Diff\LongestCommonSubsequence;
 
 
 /**

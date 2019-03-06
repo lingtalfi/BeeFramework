@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\StringParser;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\StringParser;
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Component\FileSystem\DirCopy\DirCopyUtil;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
-use BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
+use Ling\BeeFramework\Component\FileSystem\DirCopy\DirCopyUtil;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
 
 
 /**

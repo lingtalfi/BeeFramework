@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\Session;
-use BeeFramework\Bat\BdotTool;
+namespace Ling\BeeFramework\Component\Http\Session;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

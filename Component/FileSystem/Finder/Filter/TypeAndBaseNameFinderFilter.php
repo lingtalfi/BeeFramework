@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\Finder\Filter;
+namespace Ling\BeeFramework\Component\FileSystem\Finder\Filter;
 
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Filter\Tool\TypeTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\Tool\TypeTool;
 
 
 /**

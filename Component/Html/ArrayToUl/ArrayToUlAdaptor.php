@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Html\ArrayToUl;
+namespace Ling\BeeFramework\Component\Html\ArrayToUl;
 
 
 /**

@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Html\Crawler\Tool;
+namespace Ling\BeeFramework\Component\Html\Crawler\Tool;
 
-use BeeFramework\Bat\StringTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\Html\Crawler\BDomElement\BDomElement;
-use BeeFramework\Component\Html\Crawler\BDomElement\BDomElementInterface;
-use BeeFramework\Component\Html\Crawler\Collection\CollectionInterface;
-use BeeFramework\Component\Html\Crawler\Exception\CrawlerException;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\Html\Crawler\BDomElement\BDomElement;
+use Ling\BeeFramework\Component\Html\Crawler\BDomElement\BDomElementInterface;
+use Ling\BeeFramework\Component\Html\Crawler\Collection\CollectionInterface;
+use Ling\BeeFramework\Component\Html\Crawler\Exception\CrawlerException;
 
 
 /**

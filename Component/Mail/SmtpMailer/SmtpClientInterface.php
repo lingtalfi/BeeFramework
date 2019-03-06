@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Mail\SmtpMailer;
+namespace Ling\BeeFramework\Component\Mail\SmtpMailer;
 
 
 /**

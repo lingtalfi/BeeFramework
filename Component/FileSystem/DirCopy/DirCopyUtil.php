@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\DirCopy;
+namespace Ling\BeeFramework\Component\FileSystem\DirCopy;
 
-use BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
 
 
 /**

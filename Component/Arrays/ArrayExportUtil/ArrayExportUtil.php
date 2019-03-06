@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Arrays\ArrayExportUtil;
+namespace Ling\BeeFramework\Component\Arrays\ArrayExportUtil;
 
-use BeeFramework\Component\Arrays\ArrayExportUtil\Exception\ArrayExportUtilException;
-use BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager\ArrayExportUtilSymbolsManagerInterface;
+use Ling\BeeFramework\Component\Arrays\ArrayExportUtil\Exception\ArrayExportUtilException;
+use Ling\BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager\ArrayExportUtilSymbolsManagerInterface;
 
 
 /**

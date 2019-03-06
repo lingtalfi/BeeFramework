@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Autoload\ClassAutoLoader;
+namespace Ling\BeeFramework\Component\Autoload\ClassAutoLoader;
 
 
 /**

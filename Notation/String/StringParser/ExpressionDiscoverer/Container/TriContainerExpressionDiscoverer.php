@@ -9,17 +9,17 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use BeeFramework\Bat\ClassTool;
-use BeeFramework\Component\String\StringIterator\StringIterator;
-use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\GreedyExpressionDiscovererInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModelInterface;
-use BeeFramework\Notation\String\StringParser\Validator\ValidatorInterface;
-use Komin\Component\Monitor\Traits\ClassicMonitorTrait;
+use Ling\BeeFramework\Bat\ClassTool;
+use Ling\BeeFramework\Component\String\StringIterator\StringIterator;
+use Ling\BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\GreedyExpressionDiscovererInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModelInterface;
+use Ling\BeeFramework\Notation\String\StringParser\Validator\ValidatorInterface;
+use Ling\Komin\Component\Monitor\Traits\ClassicMonitorTrait;
 
 
 /**

@@ -10,8 +10,8 @@
  */
 
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
-use BeeFramework\Application\ParameterBag\BdotParameterBag;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
+use Ling\BeeFramework\Application\ParameterBag\BdotParameterBag;
 
 
 /**

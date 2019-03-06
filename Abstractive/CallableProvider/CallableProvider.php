@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Abstractive\CallableProvider;
+namespace Ling\BeeFramework\Abstractive\CallableProvider;
 
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SimpleLogger;
+namespace Ling\BeeFramework\Component\Log\SimpleLogger;
 
-use BeeFramework\Component\Log\SimpleLogger\Listener\LoggerListenerInterface;
+use Ling\BeeFramework\Component\Log\SimpleLogger\Listener\LoggerListenerInterface;
 
 
 /**

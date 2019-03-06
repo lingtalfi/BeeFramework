@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionFinder;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionFinder;
 
 
 /**

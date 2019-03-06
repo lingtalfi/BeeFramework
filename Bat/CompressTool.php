@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
+use Ling\BeeFramework\Component\Compression\CompressionUtil\ZipCommandCompressionUtil;
 
 
 /**

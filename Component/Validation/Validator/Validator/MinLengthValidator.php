@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Validation\Validator\Validator;
+namespace Ling\BeeFramework\Component\Validation\Validator\Validator;
 
-use BeeFramework\Component\Validation\Validator\ValidatorTest\MinLengthValidatorTest;
-use BeeFramework\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorTest\MinLengthValidatorTest;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
 
 
 /**

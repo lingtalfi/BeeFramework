@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\FileRotator;
+namespace Ling\BeeFramework\Component\Log\FileRotator;
 
-use BeeFramework\Bat\ConvertTool;
-use BeeFramework\Bat\DateTool;
-use BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\ConvertTool;
+use Ling\BeeFramework\Bat\DateTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
 
 
 /**

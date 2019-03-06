@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer;
 
-use BeeFramework\Bat\Escaping\EscapeTool;
-use BeeFramework\Bat\QuoteTool;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
-use BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
+use Ling\BeeFramework\Bat\Escaping\EscapeTool;
+use Ling\BeeFramework\Bat\QuoteTool;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Tool\ExpressionDiscovererTool;
+use Ling\BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
 
 
 /**

@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Db\PdoConnectionManager;
+namespace Ling\BeeFramework\Component\Db\PdoConnectionManager;
 
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

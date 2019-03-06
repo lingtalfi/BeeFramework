@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate;
 
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use BeeFramework\Bat\DateTool;
-use BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
-use BeeFramework\Component\Template\FileTemplate\FileTemplate;
-use BeeFramework\Notation\PhpArray\PrettyArrayExportUtil\PrettyArrayExportUtil;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Bat\DateTool;
+use Ling\BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
+use Ling\BeeFramework\Component\Template\FileTemplate\FileTemplate;
+use Ling\BeeFramework\Notation\PhpArray\PrettyArrayExportUtil\PrettyArrayExportUtil;
 
 
 /**

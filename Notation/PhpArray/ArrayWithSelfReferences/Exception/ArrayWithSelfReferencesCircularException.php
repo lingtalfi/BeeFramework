@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\Exception;
+namespace Ling\BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\Exception;
 
 use Exception;
 

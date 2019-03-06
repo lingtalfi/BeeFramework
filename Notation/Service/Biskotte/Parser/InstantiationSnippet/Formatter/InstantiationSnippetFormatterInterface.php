@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter;
 
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
 
 
 /**

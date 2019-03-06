@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Cache\CacheMaster\CacheDisciple\ByFileMtimeCacheDisciple;
-use BeeFramework\Component\Cache\CacheMaster\CacheDisciple\CacheDiscipleInterface;
-use BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheDisciple\ByFileMtimeCacheDisciple;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheDisciple\CacheDiscipleInterface;
+use Ling\BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
 
 
 /**

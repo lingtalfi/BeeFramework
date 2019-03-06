@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Compression\CompressionUtil;
+namespace Ling\BeeFramework\Component\Compression\CompressionUtil;
 
 
 /**

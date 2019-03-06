@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\CurlWrapper\Connexion;
+namespace Ling\BeeFramework\Component\Http\CurlWrapper\Connexion;
 
-use BeeFramework\Component\Http\CurlWrapper\Exception\CurlWrapperException;
-use BeeFramework\Component\Http\CurlWrapper\Tool\CurlWrapperTool;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Exception\CurlWrapperException;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Tool\CurlWrapperTool;
 
 
 /**

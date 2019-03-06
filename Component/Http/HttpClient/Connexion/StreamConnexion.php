@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Connexion;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Connexion;
 
-use BeeFramework\Component\Http\HttpClient\CookieJar\CookieJarInterface;
-use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
-use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
-use BeeFramework\Component\Http\HttpClient\Tool\RequestTool;
+use Ling\BeeFramework\Component\Http\HttpClient\CookieJar\CookieJarInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use Ling\BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\Tool\RequestTool;
 
 
 /**

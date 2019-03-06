@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\IndentedLines;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\IndentedLines;
 
-use BeeFramework\Notation\File\BabyYaml\StringParser\BabyYamlLineExpressionDiscoverer;
-use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use Ling\BeeFramework\Notation\File\BabyYaml\StringParser\BabyYamlLineExpressionDiscoverer;
+use Ling\BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
 
 
 /**

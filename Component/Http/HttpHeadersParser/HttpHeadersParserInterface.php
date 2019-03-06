@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpHeadersParser;
-use BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
+namespace Ling\BeeFramework\Component\Http\HttpHeadersParser;
+use Ling\BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
 
 
 /**

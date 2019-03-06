@@ -10,7 +10,7 @@
  */
 
 
-namespace BeeFramework\Component\Bag;
+namespace Ling\BeeFramework\Component\Bag;
 
 
 /**

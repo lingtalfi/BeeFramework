@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Cache\CacheMaster\CacheDisciple;
+namespace Ling\BeeFramework\Component\Cache\CacheMaster\CacheDisciple;
 
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterInterface;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterInterface;
 
 
 /**

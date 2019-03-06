@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\Finder\FinderToArray;
+namespace Ling\BeeFramework\Component\FileSystem\Finder\FinderToArray;
 
-use BeeFramework\Component\FileSystem\Finder\BaseFinder;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\BaseFinder;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
 
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Connexion;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Connexion;
 
-use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
 
 
 /**

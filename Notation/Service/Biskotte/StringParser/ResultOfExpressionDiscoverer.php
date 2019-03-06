@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\StringParser;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\StringParser;
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\FunctionExpressionDiscoverer;
 
 
 /**

@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor;
+namespace Ling\BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor;
 
-use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
-use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
 
 
 /**

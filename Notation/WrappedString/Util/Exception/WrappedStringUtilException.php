@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\WrappedString\Util\Exception;
+namespace Ling\BeeFramework\Notation\WrappedString\Util\Exception;
 
 
 

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\CurlWrapper\Response;
+namespace Ling\BeeFramework\Component\Http\CurlWrapper\Response;
 
-use BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBagInterface;
 
 
 /**

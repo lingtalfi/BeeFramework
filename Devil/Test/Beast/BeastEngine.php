@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\Test\Beast;
+namespace Ling\BeeFramework\Devil\Test\Beast;
 
-use BeeFramework\Bat\DebugTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Devil\Test\Beast\Tools\BeastEngineTool;
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Bat\DebugTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Devil\Test\Beast\Tools\BeastEngineTool;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

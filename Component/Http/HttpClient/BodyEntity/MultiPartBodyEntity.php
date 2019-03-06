@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\BodyEntity;
+namespace Ling\BeeFramework\Component\Http\HttpClient\BodyEntity;
 
-use BeeFramework\Bat\MimeTypeTool;
-use BeeFramework\Bat\RandomTool;
-use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
-use BeeFramework\Component\Http\HttpClient\Tool\EncoderTool;
+use Ling\BeeFramework\Bat\MimeTypeTool;
+use Ling\BeeFramework\Bat\RandomTool;
+use Ling\BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use Ling\BeeFramework\Component\Http\HttpClient\Tool\EncoderTool;
 
 
 /**

@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Compression\Tool;
+namespace Ling\BeeFramework\Component\Compression\Tool;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
-use BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
+use Ling\BeeFramework\Component\FileSystem\UniqueBaseName\UniqueBaseNameUtil;
 
 
 /**

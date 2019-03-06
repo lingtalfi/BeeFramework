@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor;
+namespace Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor;
 
-use BeeFramework\Bat\ReflectionTool;
+use Ling\BeeFramework\Bat\ReflectionTool;
 
 
 /**

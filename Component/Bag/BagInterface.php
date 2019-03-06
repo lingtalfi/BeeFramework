@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Bag;
+namespace Ling\BeeFramework\Component\Bag;
 
 
 /**

@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\ShortCode\Tool;
+namespace Ling\BeeFramework\Notation\String\ShortCode\Tool;
 
-use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use BeeFramework\Notation\String\ShortCode\LineParser\ShortCodeLineParser;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\ShortCodeExpressionDiscoverer;
+use Ling\BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use Ling\BeeFramework\Notation\String\ShortCode\LineParser\ShortCodeLineParser;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\ShortCodeExpressionDiscoverer;
 
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ServiceContainerInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ServiceContainerInterface;
 
 
 /**

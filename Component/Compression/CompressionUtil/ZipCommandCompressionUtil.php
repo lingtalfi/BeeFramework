@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Compression\CompressionUtil;
+namespace Ling\BeeFramework\Component\Compression\CompressionUtil;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\MachineTool;
-use BeeFramework\Component\Compression\Tool\CompressionTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\MachineTool;
+use Ling\BeeFramework\Component\Compression\Tool\CompressionTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

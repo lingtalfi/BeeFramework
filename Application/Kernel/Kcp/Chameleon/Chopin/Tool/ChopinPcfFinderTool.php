@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool;
+namespace Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool;
 
-use BeeFramework\Component\FileSystem\Caterpillar\CaterpillarTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Component\FileSystem\Caterpillar\CaterpillarTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

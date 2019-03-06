@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Text\TextConvertor;
+namespace Ling\BeeFramework\Component\Text\TextConvertor;
 
-use BeeFramework\Component\Text\TextConvertor\Filter\TextConvertorFilterInterface;
+use Ling\BeeFramework\Component\Text\TextConvertor\Filter\TextConvertorFilterInterface;
 
 
 /**

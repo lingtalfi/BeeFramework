@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SuperLogger;
+namespace Ling\BeeFramework\Component\Log\SuperLogger;
 
-use BeeFramework\Component\Log\SuperLogger\Listener\ListenerInterface;
-use BeeFramework\Component\Log\SuperLogger\Message\Message;
+use Ling\BeeFramework\Component\Log\SuperLogger\Listener\ListenerInterface;
+use Ling\BeeFramework\Component\Log\SuperLogger\Message\Message;
 
 
 /**

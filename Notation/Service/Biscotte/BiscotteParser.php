@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biscotte;
+namespace Ling\BeeFramework\Notation\Service\Biscotte;
 
-use BeeFramework\Notation\Service\Biscotte\Exception\BiscotteParserException;
-use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
+use Ling\BeeFramework\Notation\Service\Biscotte\Exception\BiscotteParserException;
+use Ling\BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use Ling\BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

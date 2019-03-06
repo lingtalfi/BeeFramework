@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\FileSystem\BabyTree\Forker;
+namespace Ling\BeeFramework\Notation\FileSystem\BabyTree\Forker;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Notation\FileSystem\BabyTree\BabyTreeConst;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\BabyTreeConst;
 
 
 /**

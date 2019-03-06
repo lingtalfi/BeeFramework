@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Mail\SmtpMailer;
+namespace Ling\BeeFramework\Component\Mail\SmtpMailer;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
-use BeeFramework\Component\Mail\SmtpMailer\Exception\SmtpMailerException;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
+use Ling\BeeFramework\Component\Mail\SmtpMailer\Exception\SmtpMailerException;
 
 
 /**

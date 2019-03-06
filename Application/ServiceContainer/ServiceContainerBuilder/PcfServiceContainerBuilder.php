@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use BeeFramework\Application\Config\Util\FeeConfig;
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator\ServiceContainerBuilderPcfFileAggregator;
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use BeeFramework\Application\ServiceContainer\Tool\HotServiceContainerTool;
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\Service\Biscotte\Util\BiscotteParserExpanderUtil;
-use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
+use Ling\BeeFramework\Application\Config\Util\FeeConfig;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator\ServiceContainerBuilderPcfFileAggregator;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Application\ServiceContainer\Tool\HotServiceContainerTool;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\Service\Biscotte\Util\BiscotteParserExpanderUtil;
+use Ling\BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

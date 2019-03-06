@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Response;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Response;
 
-use BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
-use BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBagInterface;
 
 
 /**

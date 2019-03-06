@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\FileSystem\BabyTree;
+namespace Ling\BeeFramework\Notation\FileSystem\BabyTree;
 
-use BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\DebugArrayEntryFormatter;
-use BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\NotationArrayEntryFormatter;
-use BeeFramework\Notation\FileSystem\BabyTree\Tool\BabyTreeTool;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\DebugArrayEntryFormatter;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter\NotationArrayEntryFormatter;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\Tool\BabyTreeTool;
 
 
 /**

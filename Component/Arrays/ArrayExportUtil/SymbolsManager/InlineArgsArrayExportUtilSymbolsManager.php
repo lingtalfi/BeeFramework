@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager;
+namespace Ling\BeeFramework\Component\Arrays\ArrayExportUtil\SymbolsManager;
 
 
 /**

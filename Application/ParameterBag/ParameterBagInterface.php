@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ParameterBag;
-use BeeFramework\Component\Bag\BagInterface;
+namespace Ling\BeeFramework\Application\ParameterBag;
+use Ling\BeeFramework\Component\Bag\BagInterface;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\HtmlParser;
+namespace Ling\BeeFramework\Devil\HtmlParser;
 
 
 /**

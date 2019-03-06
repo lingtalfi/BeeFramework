@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\PhpArray\Translation\BText;
+namespace Ling\BeeFramework\Notation\PhpArray\Translation\BText;
 
-use BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
 
 
 /**

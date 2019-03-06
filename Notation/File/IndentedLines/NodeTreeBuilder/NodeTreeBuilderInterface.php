@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder;
+namespace Ling\BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder;
 
-use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
 
 
 /**

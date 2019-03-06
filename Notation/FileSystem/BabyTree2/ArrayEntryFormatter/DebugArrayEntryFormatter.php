@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter;
+namespace Ling\BeeFramework\Notation\FileSystem\BabyTree\ArrayEntryFormatter;
 
 
 /**

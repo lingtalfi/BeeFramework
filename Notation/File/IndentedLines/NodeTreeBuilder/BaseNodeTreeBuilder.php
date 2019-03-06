@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder;
+namespace Ling\BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder;
 
-use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinder;
-use BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinderInterface;
-use BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\MultiLineCompilerInterface;
-use BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\WithLeftMarginMultiLineCompiler;
-use BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\MultiLineDelimiterInterface;
-use BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\SingleCharMultiLineDelimiter;
-use BeeFramework\Notation\File\IndentedLines\Node\Node;
-use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
-use BeeFramework\Component\Error\CodifiedErrors\Traits\CodifiedErrorsTrait;
+use Ling\BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use Ling\BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinder;
+use Ling\BeeFramework\Notation\File\IndentedLines\KeyFinder\KeyFinderInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\MultiLineCompilerInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\MultiLineCompiler\WithLeftMarginMultiLineCompiler;
+use Ling\BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\MultiLineDelimiterInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\MultiLineDelimiter\SingleCharMultiLineDelimiter;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\Node;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use Ling\BeeFramework\Component\Error\CodifiedErrors\Traits\CodifiedErrorsTrait;
 
 
 /**

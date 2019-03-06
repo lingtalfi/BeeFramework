@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Monitor\ActionMonitor;
+namespace Ling\BeeFramework\Component\Monitor\ActionMonitor;
 
-use BeeFramework\Component\Monitor\ActionMonitor\Formatter\ActionMonitorFormatterInterface;
-use BeeFramework\Component\Monitor\ActionMonitor\Formatter\HtmlTableActionMonitorFormatter;
+use Ling\BeeFramework\Component\Monitor\ActionMonitor\Formatter\ActionMonitorFormatterInterface;
+use Ling\BeeFramework\Component\Monitor\ActionMonitor\Formatter\HtmlTableActionMonitorFormatter;
 
 
 /**

@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\ServiceContainer;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\ServiceContainer;
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
-use BeeFramework\Chemical\Parameters\WithReadOnlyParameterBagInterface;
-use BeeFramework\Component\Bag\ReadOnlyBagInterface;
-use BeeFramework\Component\Bag\ReadOnlyBdotBag;
-use BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\HotServiceContainer;
+use Ling\BeeFramework\Chemical\Parameters\WithReadOnlyParameterBagInterface;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBdotBag;
+use Ling\BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
 
 
 /**

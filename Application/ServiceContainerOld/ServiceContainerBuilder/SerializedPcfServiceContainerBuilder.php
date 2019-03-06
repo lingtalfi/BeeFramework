@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
 
 
 /**

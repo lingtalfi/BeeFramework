@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\WrappedString\Tool;
+namespace Ling\BeeFramework\Notation\WrappedString\Tool;
 
 
-use BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
-use BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
-use BeeFramework\Bat\Escaping\EscapeTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
+use Ling\BeeFramework\Bat\Escaping\EscapeTool;
 
 
 /**

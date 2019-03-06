@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biscotte\Util;
+namespace Ling\BeeFramework\Notation\Service\Biscotte\Util;
 
-use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use BeeFramework\Notation\Service\Biscotte\LineParser\BiscotteInlineArgsParser;
-use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
+use Ling\BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use Ling\BeeFramework\Notation\Service\Biscotte\LineParser\BiscotteInlineArgsParser;
+use Ling\BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
 
 
 /**

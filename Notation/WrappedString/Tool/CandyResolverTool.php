@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\WrappedString\Tool;
+namespace Ling\BeeFramework\Notation\WrappedString\Tool;
 
 
-use BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
-use BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
-use BeeFramework\Bat\StringTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\WrappedString\Util\WrappedStringResolverUtil;
+use Ling\BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\WrappedString\Util\WrappedStringResolverUtil;
 
 /**
  * CandyResolverTool

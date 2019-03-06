@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Connexion\Tool;
-use BeeFramework\Bat\StreamTool;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Connexion\Tool;
+use Ling\BeeFramework\Bat\StreamTool;
 
 
 /**

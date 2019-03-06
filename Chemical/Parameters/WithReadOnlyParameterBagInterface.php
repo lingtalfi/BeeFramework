@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Chemical\Parameters;
-use BeeFramework\Component\Bag\ReadOnlyBagInterface;
+namespace Ling\BeeFramework\Chemical\Parameters;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBagInterface;
 
 
 /**

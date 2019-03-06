@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\CallableInlineVariableUtilAdaptor;
-use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\ClosureInlineVariableUtilAdaptor;
-use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
-use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpTypeInlineVariableUtilAdaptor;
-use BeeFramework\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\CallableInlineVariableUtilAdaptor;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\ClosureInlineVariableUtilAdaptor;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpTypeInlineVariableUtilAdaptor;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
 
 
 /**

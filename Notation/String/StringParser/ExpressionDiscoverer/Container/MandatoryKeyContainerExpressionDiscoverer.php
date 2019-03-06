@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
-use BeeFramework\Notation\String\StringParser\Validator\ContainerValidator;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use Ling\BeeFramework\Notation\String\StringParser\Validator\ContainerValidator;
 
 
 /**

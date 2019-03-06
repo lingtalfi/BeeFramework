@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyDash\Tool;
+namespace Ling\BeeFramework\Notation\File\BabyDash\Tool;
 
-use BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
-use BeeFramework\Notation\File\BabyDash\Reader\BabyDashReader;
+use Ling\BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
+use Ling\BeeFramework\Notation\File\BabyDash\Reader\BabyDashReader;
 
 
 /**

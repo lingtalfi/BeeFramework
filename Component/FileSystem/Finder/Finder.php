@@ -10,15 +10,15 @@
  */
 
 
-namespace BeeFramework\Component\FileSystem\Finder;
+namespace Ling\BeeFramework\Component\FileSystem\Finder;
 
-use BeeFramework\Component\FileSystem\Finder\Filter\BaseNameFinderFilter;
-use BeeFramework\Component\FileSystem\Finder\Filter\ComponentsPathFinderFilter;
-use BeeFramework\Component\FileSystem\Finder\Filter\ExtensionFinderFilter;
-use BeeFramework\Component\FileSystem\Finder\Filter\MaxDepthFinderFilter;
-use BeeFramework\Component\FileSystem\Finder\Filter\Tool\TypeTool;
-use BeeFramework\Component\FileSystem\Finder\Filter\TypeAndBaseNameFinderFilter;
-use BeeFramework\Component\FileSystem\Finder\Filter\TypeFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\BaseNameFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\ComponentsPathFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\ExtensionFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\MaxDepthFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\Tool\TypeTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\TypeAndBaseNameFinderFilter;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\TypeFinderFilter;
 
 
 /**

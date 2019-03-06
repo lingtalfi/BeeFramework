@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileAggregator;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Component\FileSystem\FileAggregator\InPoolTagsFileAggregator;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Component\FileSystem\FileAggregator\InPoolTagsFileAggregator;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
 
 
 /**

@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Config\Util;
+namespace Ling\BeeFramework\Application\Config\Util;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Notation\File\BabyXml\Util\BabyXmlTool;
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Notation\File\BabyXml\Util\BabyXmlTool;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Abstractive\Resolver\Filter;
+namespace Ling\BeeFramework\Abstractive\Resolver\Filter;
 
 
 /**

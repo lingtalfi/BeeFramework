@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\FileRotator;
+namespace Ling\BeeFramework\Component\Log\FileRotator;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileTool;
 
 
 /**

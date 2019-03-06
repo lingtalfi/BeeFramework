@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\CurlWrapper\Wrapper;
+namespace Ling\BeeFramework\Component\Http\CurlWrapper\Wrapper;
 
-use BeeFramework\Component\Http\CurlWrapper\Connexion\CurlConnexionInterface;
-use BeeFramework\Component\Http\CurlWrapper\Exception\CurlWrapperException;
-use BeeFramework\Component\Http\CurlWrapper\Response\HttpResponse;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Connexion\CurlConnexionInterface;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Exception\CurlWrapperException;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Response\HttpResponse;
 
 
 /**

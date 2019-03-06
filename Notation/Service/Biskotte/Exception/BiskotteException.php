@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Exception;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Exception;
 
 
 

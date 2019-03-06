@@ -10,9 +10,9 @@
  */
 
 
-namespace BeeFramework\Component\Bag;
+namespace Ling\BeeFramework\Component\Bag;
 
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

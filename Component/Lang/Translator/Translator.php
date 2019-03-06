@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Lang\Translator;
+namespace Ling\BeeFramework\Component\Lang\Translator;
 
 
-use BeeFramework\Component\Lang\Translator\Catalog\CatalogInterface;
-use BeeFramework\Component\Lang\Translator\CatalogLoader\CatalogLoaderInterface;
-use BeeFramework\Component\Lang\Translator\Number2PluralFormIndexAdaptor\Number2PluralFormIndexAdaptor;
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Component\Lang\Translator\Catalog\CatalogInterface;
+use Ling\BeeFramework\Component\Lang\Translator\CatalogLoader\CatalogLoaderInterface;
+use Ling\BeeFramework\Component\Lang\Translator\Number2PluralFormIndexAdaptor\Number2PluralFormIndexAdaptor;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

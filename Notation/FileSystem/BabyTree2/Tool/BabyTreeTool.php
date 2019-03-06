@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\FileSystem\BabyTree\Tool;
+namespace Ling\BeeFramework\Notation\FileSystem\BabyTree\Tool;
 
-use BeeFramework\Notation\FileSystem\BabyTree\Scanner\BabyTreeArrayScanner;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\Scanner\BabyTreeArrayScanner;
 
 
 /**

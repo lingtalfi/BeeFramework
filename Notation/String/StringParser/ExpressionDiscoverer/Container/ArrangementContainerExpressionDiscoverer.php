@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\Diff\StringDiff;
+namespace Ling\BeeFramework\Devil\Diff\StringDiff;
 
 
 /**

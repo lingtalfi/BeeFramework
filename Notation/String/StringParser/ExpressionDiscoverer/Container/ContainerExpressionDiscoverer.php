@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use BeeFramework\Component\String\StringIterator\StringIterator;
-use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
-use Komin\Component\Monitor\Traits\ClassicMonitorTrait;
+use Ling\BeeFramework\Component\String\StringIterator\StringIterator;
+use Ling\BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscoverer;
+use Ling\Komin\Component\Monitor\Traits\ClassicMonitorTrait;
 
 
 /**

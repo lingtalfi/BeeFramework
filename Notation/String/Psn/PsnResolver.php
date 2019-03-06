@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\Psn;
+namespace Ling\BeeFramework\Notation\String\Psn;
 
 
 /**

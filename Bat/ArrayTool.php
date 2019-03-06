@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
-use BeeFramework\Component\Html\ArrayToUl\ArrayToUlAdaptor;
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Component\Arrays\ArrayExportUtil\ArrayExportUtil;
+use Ling\BeeFramework\Component\Html\ArrayToUl\ArrayToUlAdaptor;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

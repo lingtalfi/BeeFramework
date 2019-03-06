@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Html\MarkDown\MarkDown;
+namespace Ling\BeeFramework\Notation\Html\MarkDown\MarkDown;
 
-use BeeFramework\Component\Text\TextConvertor\TextConvertor;
-use BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\FlattenBlockElementsFilter;
-use BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\ParagraphFilter;
+use Ling\BeeFramework\Component\Text\TextConvertor\TextConvertor;
+use Ling\BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\FlattenBlockElementsFilter;
+use Ling\BeeFramework\Notation\Html\MarkDown\MarkDown\Filter\ParagraphFilter;
 
 
 /**

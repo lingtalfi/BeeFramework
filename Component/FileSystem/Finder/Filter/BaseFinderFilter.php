@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\Finder\Filter;
+namespace Ling\BeeFramework\Component\FileSystem\Finder\Filter;
 
 
 /**

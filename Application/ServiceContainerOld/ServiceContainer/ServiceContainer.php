@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainer;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainer;
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
 
 
 /**

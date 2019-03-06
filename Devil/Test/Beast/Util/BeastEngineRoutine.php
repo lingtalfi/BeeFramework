@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\Test\Beast\Util;
+namespace Ling\BeeFramework\Devil\Test\Beast\Util;
 
-use BeeFramework\Bat\DebugTool;
-use BeeFramework\Bat\HtmlTool;
-use BeeFramework\Devil\Test\Beast\BeastEngine;
-use BeeFramework\Devil\Test\Beast\Tools\BeastEngineTool;
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Bat\DebugTool;
+use Ling\BeeFramework\Bat\HtmlTool;
+use Ling\BeeFramework\Devil\Test\Beast\BeastEngine;
+use Ling\BeeFramework\Devil\Test\Beast\Tools\BeastEngineTool;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

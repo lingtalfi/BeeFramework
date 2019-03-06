@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Kernel\Kcp;
+namespace Ling\BeeFramework\Application\Kernel\Kcp;
 
-use BeeFramework\Application\Kernel\KernelInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ContainerInterface;
+use Ling\BeeFramework\Application\Kernel\KernelInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ContainerInterface;
 
 
 /**

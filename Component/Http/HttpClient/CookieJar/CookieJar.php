@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\CookieJar;
+namespace Ling\BeeFramework\Component\Http\HttpClient\CookieJar;
 
-use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
-use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use Ling\BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
 
 
 /**

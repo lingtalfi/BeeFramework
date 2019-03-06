@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat\Escaping;
+namespace Ling\BeeFramework\Bat\Escaping;
 
-use BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
-use BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
-use BeeFramework\Bat\IntTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\SimpleBackslashEscapeTool;
+use Ling\BeeFramework\Bat\IntTool;
 
 
 /**

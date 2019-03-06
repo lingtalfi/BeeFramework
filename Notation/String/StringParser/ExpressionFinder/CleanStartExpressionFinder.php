@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionFinder;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionFinder;
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\ContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\ContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
 
 
 /**

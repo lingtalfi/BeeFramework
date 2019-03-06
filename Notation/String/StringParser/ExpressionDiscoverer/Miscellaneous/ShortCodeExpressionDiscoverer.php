@@ -9,15 +9,15 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous;
 
-use BeeFramework\Component\String\StringIterator\StringIterator;
-use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\MandatoryKeyContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use Ling\BeeFramework\Component\String\StringIterator\StringIterator;
+use Ling\BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\MandatoryKeyContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\OptionalKeyContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

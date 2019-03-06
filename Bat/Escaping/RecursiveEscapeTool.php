@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat\Escaping;
+namespace Ling\BeeFramework\Bat\Escaping;
 
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 
 /**

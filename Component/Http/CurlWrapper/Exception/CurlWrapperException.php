@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\CurlWrapper\Exception;
+namespace Ling\BeeFramework\Component\Http\CurlWrapper\Exception;
 
 
 

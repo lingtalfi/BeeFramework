@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Html\Crawler\BDomElement;
+namespace Ling\BeeFramework\Component\Html\Crawler\BDomElement;
 
-use BeeFramework\Bat\StringTool;
-use BeeFramework\Component\Html\Crawler\Tool\CrawlerDevTool;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Component\Html\Crawler\Tool\CrawlerDevTool;
 
 
 /**

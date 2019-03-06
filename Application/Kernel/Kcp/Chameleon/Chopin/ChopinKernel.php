@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin;
+namespace Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin;
 
-use BeeFramework\Application\Kernel\Kcp\Chameleon\ChameleonKernel;
-use BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool\ChopinPcfFinderTool;
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use BeeFramework\Component\Cache\CacheMaster\CacheMaster;
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterInterface;
-use BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
-use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
-use BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\Service\Biscotte\BiscotteParser;
+use Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\ChameleonKernel;
+use Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin\Tool\ChopinPcfFinderTool;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMaster;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterInterface;
+use Ling\BeeFramework\Component\Cache\CacheMaster\FileSystemCacheMaster;
+use Ling\BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\ArrayWithSelfReferences;
+use Ling\BeeFramework\Notation\File\BabyYaml\Tool\BabyYamlTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\Service\Biscotte\BiscotteParser;
 
 
 /**

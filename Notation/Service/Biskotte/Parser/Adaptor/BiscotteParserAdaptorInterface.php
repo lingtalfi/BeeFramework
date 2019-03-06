@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Parser\Adaptor;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Parser\Adaptor;
 
 
 

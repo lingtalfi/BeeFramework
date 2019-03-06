@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat\Escaping\Backslash;
+namespace Ling\BeeFramework\Bat\Escaping\Backslash;
 
-use BeeFramework\Bat\Escaping\RecursiveEscapeTool;
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\Escaping\RecursiveEscapeTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 
 /**

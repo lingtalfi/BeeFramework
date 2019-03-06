@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 

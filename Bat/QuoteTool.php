@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
-use BeeFramework\Bat\Escaping\EscapeTool;
-use BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
+use Ling\BeeFramework\Bat\Escaping\Backslash\RecursiveBackslashEscapeTool;
+use Ling\BeeFramework\Bat\Escaping\EscapeTool;
+use Ling\BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
 
 
 /**

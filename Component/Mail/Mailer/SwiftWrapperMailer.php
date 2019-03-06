@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Mail\Mailer;
+namespace Ling\BeeFramework\Component\Mail\Mailer;
 
 
-use BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Bat\ArrayTool;
 
 
 /**

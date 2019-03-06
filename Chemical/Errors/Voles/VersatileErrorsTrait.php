@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Chemical\Errors\Voles;
+namespace Ling\BeeFramework\Chemical\Errors\Voles;
 
 
 /**

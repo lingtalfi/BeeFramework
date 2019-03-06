@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Lang\Translator\Catalog;
+namespace Ling\BeeFramework\Component\Lang\Translator\Catalog;
 
 
 /**

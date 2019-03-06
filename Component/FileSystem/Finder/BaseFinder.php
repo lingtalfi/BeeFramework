@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-//namespace BeeFramework\Component\FileSystem\Finder;
-namespace BeeFramework\Component\FileSystem\Finder;
+//namespace Ling\BeeFramework\Component\FileSystem\Finder;
+namespace Ling\BeeFramework\Component\FileSystem\Finder;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Filter\FinderFilterInterface;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Filter\FinderFilterInterface;
 
 
 /**

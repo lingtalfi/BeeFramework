@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biscotte\LineParser;
+namespace Ling\BeeFramework\Notation\Service\Biscotte\LineParser;
 
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PhpStyleArgsExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PhpStyleArgsExpressionDiscoverer;
 
 
 /**

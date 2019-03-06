@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Template\FileTemplate;
+namespace Ling\BeeFramework\Component\Template\FileTemplate;
 
 
 /**

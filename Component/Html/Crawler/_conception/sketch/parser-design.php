@@ -1,8 +1,8 @@
 <?php
 
 
-use BeeFramework\Component\Html\Crawler\BDomElement\BDomElement;
-use BeeFramework\Component\Html\Crawler\Collection\Collection;
+use Ling\BeeFramework\Component\Html\Crawler\BDomElement\BDomElement;
+use Ling\BeeFramework\Component\Html\Crawler\Collection\Collection;
 
 require_once 'alveolus/bee/boot/autoload.php';
 

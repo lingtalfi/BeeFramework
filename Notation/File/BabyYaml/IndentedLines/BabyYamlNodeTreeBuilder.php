@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\IndentedLines;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\IndentedLines;
 
-use BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilder;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilder;
 
 
 /**

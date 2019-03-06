@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Validation\Validator\Validator;
+namespace Ling\BeeFramework\Component\Validation\Validator\Validator;
 
-use BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
 
 
 /**

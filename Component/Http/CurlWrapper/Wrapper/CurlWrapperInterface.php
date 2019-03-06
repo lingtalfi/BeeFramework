@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\CurlWrapper\Wrapper;
-use BeeFramework\Component\Http\CurlWrapper\Connexion\CurlConnexionInterface;
+namespace Ling\BeeFramework\Component\Http\CurlWrapper\Wrapper;
+use Ling\BeeFramework\Component\Http\CurlWrapper\Connexion\CurlConnexionInterface;
 
 
 /**

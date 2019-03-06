@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\BodyEntity;
+namespace Ling\BeeFramework\Component\Http\HttpClient\BodyEntity;
 
 
 /**

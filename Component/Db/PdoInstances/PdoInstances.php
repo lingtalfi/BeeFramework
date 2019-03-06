@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Db\PdoInstances;
+namespace Ling\BeeFramework\Component\Db\PdoInstances;
 
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Db\PdoInstances\Exception\PdoInstancesException;
-use BeeFramework\Component\Db\PdoInstances\PdoInstancesInterface;
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Db\PdoInstances\Exception\PdoInstancesException;
+use Ling\BeeFramework\Component\Db\PdoInstances\PdoInstancesInterface;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

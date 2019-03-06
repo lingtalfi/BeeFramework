@@ -9,24 +9,24 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Parser;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Parser;
 
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Notation\Service\Biskotte\Expander\BiskotteExpander;
-use BeeFramework\Notation\Service\Biskotte\Parser\Adaptor\BiscotteParserAdaptorInterface;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatter;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatterInterface;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
-use BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
-use BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Notation\Service\Biskotte\Expander\BiskotteExpander;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\Adaptor\BiscotteParserAdaptorInterface;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\CallMethodCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ConcatCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\InstantiationCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\NonStaticInstantiationCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\ResultOfCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Element\StaticInstantiationCodeSnippetElement;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatter;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\Formatter\InstantiationSnippetFormatterInterface;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\InstantiationSnippet;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\ServiceRefSpecialArg;
+use Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg\VarRefSpecialArg;
+use Ling\BeeFramework\Notation\WrappedString\Tool\CandyResolverTool;
 
 
 /**

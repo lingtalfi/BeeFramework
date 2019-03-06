@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\HtmlPage;
+namespace Ling\BeeFramework\Application\HtmlPage;
 
-use BeeFramework\Bat\HtmlTool;
+use Ling\BeeFramework\Bat\HtmlTool;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Kernel;
+namespace Ling\BeeFramework\Application\Kernel;
 
 
 /**

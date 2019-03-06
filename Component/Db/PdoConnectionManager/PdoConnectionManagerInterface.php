@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Db\PdoConnectionManager;
+namespace Ling\BeeFramework\Component\Db\PdoConnectionManager;
 
 
 /**

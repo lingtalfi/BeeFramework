@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Db\PdoInstances\Exception;
+namespace Ling\BeeFramework\Component\Db\PdoInstances\Exception;
 
 
 

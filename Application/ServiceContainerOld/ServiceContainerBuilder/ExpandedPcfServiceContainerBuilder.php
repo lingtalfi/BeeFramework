@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder;
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\TransparentServiceContainerInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate\ExpandedReadableParametersServiceContainerFileTemplate;
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
-use BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
-use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use BeeFramework\Exception\FileSystemException;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\TransparentServiceContainerInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\FileTemplate\ExpandedReadableParametersServiceContainerFileTemplate;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\ByFileMtimeCacheMasterHandler;
+use Ling\BeeFramework\Component\Cache\CacheMaster\CacheMasterHandler\CacheMasterHandlerInterface;
+use Ling\BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use Ling\BeeFramework\Exception\FileSystemException;
 
 
 /**

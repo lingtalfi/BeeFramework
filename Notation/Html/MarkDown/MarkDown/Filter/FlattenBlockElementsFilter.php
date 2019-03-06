@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Html\MarkDown\MarkDown\Filter;
+namespace Ling\BeeFramework\Notation\Html\MarkDown\MarkDown\Filter;
 
-use BeeFramework\Devil\HtmlParser\HtmlParserTool;
+use Ling\BeeFramework\Devil\HtmlParser\HtmlParserTool;
 
 
 /**

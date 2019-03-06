@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Cache\CacheMaster\CacheDisciple;
+namespace Ling\BeeFramework\Component\Cache\CacheMaster\CacheDisciple;
 
-use BeeFramework\Bat\ArrayTool;
-use BeeFramework\Component\Cache\CacheMaster\Exception\CacheMasterException;
+use Ling\BeeFramework\Bat\ArrayTool;
+use Ling\BeeFramework\Component\Cache\CacheMaster\Exception\CacheMasterException;
 
 
 /**

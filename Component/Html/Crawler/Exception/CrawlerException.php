@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Html\Crawler\Exception;
+namespace Ling\BeeFramework\Component\Html\Crawler\Exception;
 
 
 

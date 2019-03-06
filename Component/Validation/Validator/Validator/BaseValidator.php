@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Validation\Validator\Validator;
+namespace Ling\BeeFramework\Component\Validation\Validator\Validator;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResult;
-use BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
-use BeeFramework\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResult;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorResult\ValidatorResultInterface;
+use Ling\BeeFramework\Component\Validation\Validator\ValidatorTest\ValidatorTestInterface;
 
 
 /**

@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Devil\Test\Beast\Tools;
+namespace Ling\BeeFramework\Devil\Test\Beast\Tools;
 
-use BeeFramework\Bat\DebugTool;
-use BeeFramework\Bat\HtmlTool;
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Devil\Diff\LongestCommonSubsequence\LongestCommonSubsequenceTool;
+use Ling\BeeFramework\Bat\DebugTool;
+use Ling\BeeFramework\Bat\HtmlTool;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Devil\Diff\LongestCommonSubsequence\LongestCommonSubsequenceTool;
 
 
 /**

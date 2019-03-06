@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Arrays\ArrayExportUtil\Exception;
+namespace Ling\BeeFramework\Component\Arrays\ArrayExportUtil\Exception;
 
 
 

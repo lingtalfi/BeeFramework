@@ -9,8 +9,8 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\ExpressionDiscovererInterface;
 
 
 /**

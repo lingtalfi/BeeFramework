@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Application;
+namespace Ling\BeeFramework\Application\Application;
 
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\ExpandedPcfServiceContainerBuilder;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainerInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainerBuilder\ExpandedPcfServiceContainerBuilder;
 
 
 /**

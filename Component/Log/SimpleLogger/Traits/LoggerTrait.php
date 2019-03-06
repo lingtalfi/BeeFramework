@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SimpleLogger\Traits;
+namespace Ling\BeeFramework\Component\Log\SimpleLogger\Traits;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\Log\SimpleLogger\SimpleLogger;
-use BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\Log\SimpleLogger\SimpleLogger;
+use Ling\BeeFramework\Component\Log\SimpleLogger\SimpleLoggerInterface;
 
 
 /**

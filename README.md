@@ -13,7 +13,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import BeeFramework
+uni import Ling/BeeFramework
 ```
 
 Or just download it and place it where you want otherwise.

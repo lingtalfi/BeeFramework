@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Response;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Response;
 
-use BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
-use BeeFramework\Component\Bag\ReadOnlyBag;
-use BeeFramework\Component\Bag\ReadOnlyBagInterface;
-use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
-use BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParser;
-use BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParserInterface;
+use Ling\BeeFramework\Component\Bag\CaseInsensitiveReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBag;
+use Ling\BeeFramework\Component\Bag\ReadOnlyBagInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use Ling\BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParser;
+use Ling\BeeFramework\Component\Http\HttpHeadersParser\HttpHeadersParserInterface;
 
 
 /**

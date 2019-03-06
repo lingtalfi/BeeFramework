@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin;
+namespace Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\Chopin;
 
-use BeeFramework\Application\Kernel\Kcp\Chameleon\ChameleonKernelInterface;
+use Ling\BeeFramework\Application\Kernel\Kcp\Chameleon\ChameleonKernelInterface;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\HtmlPage;
+namespace Ling\BeeFramework\Application\HtmlPage;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Html\MarkDown\MarkDown;
+namespace Ling\BeeFramework\Notation\Html\MarkDown\MarkDown;
 
 
 /**

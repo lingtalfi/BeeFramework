@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyDash\Exception;
+namespace Ling\BeeFramework\Notation\File\BabyDash\Exception;
 
 
 

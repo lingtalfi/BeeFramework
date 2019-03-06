@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Request;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Request;
 
-use BeeFramework\Component\Bag\BagInterface;
-use BeeFramework\Component\Http\HttpClient\BodyEntity\BodyEntityInterface;
+use Ling\BeeFramework\Component\Bag\BagInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\BodyEntity\BodyEntityInterface;
 
 
 /**

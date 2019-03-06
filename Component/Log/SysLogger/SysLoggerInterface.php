@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SysLogger;
+namespace Ling\BeeFramework\Component\Log\SysLogger;
 
 
 /**

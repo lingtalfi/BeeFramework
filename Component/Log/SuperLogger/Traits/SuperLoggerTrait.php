@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SuperLogger\Traits;
+namespace Ling\BeeFramework\Component\Log\SuperLogger\Traits;
 
 
-use BeeFramework\Component\Log\SuperLogger\SuperLogger;
+use Ling\BeeFramework\Component\Log\SuperLogger\SuperLogger;
 
 
 /**

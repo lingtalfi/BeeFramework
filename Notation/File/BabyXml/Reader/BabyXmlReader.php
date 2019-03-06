@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyXml\Reader;
+namespace Ling\BeeFramework\Notation\File\BabyXml\Reader;
 
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 /**
  * BabyXmlReader.

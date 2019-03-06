@@ -9,16 +9,16 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyDash\Reader;
+namespace Ling\BeeFramework\Notation\File\BabyDash\Reader;
 
-use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
-use BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashNodeTreeBuilder;
-use BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashValueInterpreter;
-use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
-use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
-use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
-use BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
+use Ling\BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use Ling\BeeFramework\Notation\File\BabyDash\Exception\BabyDashException;
+use Ling\BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashNodeTreeBuilder;
+use Ling\BeeFramework\Notation\File\BabyDash\IndentedLines\BabyDashValueInterpreter;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
 
 
 /**

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Abstractive\Resolver;
+namespace Ling\BeeFramework\Abstractive\Resolver;
 
-use BeeFramework\Abstractive\Resolver\Filter\ResolverFilterInterface;
+use Ling\BeeFramework\Abstractive\Resolver\Filter\ResolverFilterInterface;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Validation\Validator\ValidatorResult;
+namespace Ling\BeeFramework\Component\Validation\Validator\ValidatorResult;
 
 
 /**

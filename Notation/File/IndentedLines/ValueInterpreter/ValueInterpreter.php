@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\IndentedLines\ValueInterpreter;
+namespace Ling\BeeFramework\Notation\File\IndentedLines\ValueInterpreter;
 
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 
 /**

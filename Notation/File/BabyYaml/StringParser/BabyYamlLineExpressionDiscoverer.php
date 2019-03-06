@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\StringParser;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\StringParser;
 
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\MappingContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\SequenceContainerExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PolyExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\MappingContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container\SequenceContainerExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\HybridExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Miscellaneous\PolyExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\SimpleQuoteExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModel;
 
 
 /**

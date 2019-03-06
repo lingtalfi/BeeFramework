@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServiceContainer;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServiceContainer;
 
-use BeeFramework\Application\ParameterBag\BdotParameterBag;
-use BeeFramework\Application\ParameterBag\ParameterBagInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
-use BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Application\ParameterBag\BdotParameterBag;
+use Ling\BeeFramework\Application\ParameterBag\ParameterBagInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\Exception\ServiceContainerException;
+use Ling\BeeFramework\Bat\BdotTool;
 
 
 /**

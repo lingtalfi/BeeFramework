@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\UniqueBaseName;
+namespace Ling\BeeFramework\Component\FileSystem\UniqueBaseName;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
-use BeeFramework\Exception\FileSystemException;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Component\FileSystem\UniqueBaseName\AffixGenerator\AffixGenerator;
+use Ling\BeeFramework\Exception\FileSystemException;
 
 
 /**

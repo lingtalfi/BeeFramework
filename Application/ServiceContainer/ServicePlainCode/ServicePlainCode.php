@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\ServicePlainCode;
+namespace Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode;
 
 
 /**

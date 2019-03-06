@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Lang\Translator\CatalogLoader;
+namespace Ling\BeeFramework\Component\Lang\Translator\CatalogLoader;
 
 
-use BeeFramework\Component\Lang\Translator\Catalog\CatalogInterface;
-use BeeFramework\Component\Lang\Translator\Catalog\Catalog;
-use BeeFramework\Notation\File\BabyXml\Util\BabyXmlTool;
+use Ling\BeeFramework\Component\Lang\Translator\Catalog\CatalogInterface;
+use Ling\BeeFramework\Component\Lang\Translator\Catalog\Catalog;
+use Ling\BeeFramework\Notation\File\BabyXml\Util\BabyXmlTool;
 
 
 /**

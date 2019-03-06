@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Cache\CacheMaster;
+namespace Ling\BeeFramework\Component\Cache\CacheMaster;
 
 
 /**

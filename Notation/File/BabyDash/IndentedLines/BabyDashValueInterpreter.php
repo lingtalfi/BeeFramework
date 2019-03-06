@@ -9,17 +9,17 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyDash\IndentedLines;
+namespace Ling\BeeFramework\Notation\File\BabyDash\IndentedLines;
 
-use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
-use BeeFramework\Notation\String\LineParser\ExpressionParser\HybridExpressionParser;
-use BeeFramework\Notation\String\LineParser\ExpressionParser\MappingContainerExpressionParser;
-use BeeFramework\Notation\String\LineParser\ExpressionParser\QuotedExpressionParser;
-use BeeFramework\Notation\String\LineParser\ExpressionParser\SequenceContainerExpressionParser;
-use BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPile;
-use BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPileInterface;
-use BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
-use BeeFramework\Notation\String\LineParser\NotationParser\SingleExpressionNotationParser;
+use Ling\BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParser\HybridExpressionParser;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParser\MappingContainerExpressionParser;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParser\QuotedExpressionParser;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParser\SequenceContainerExpressionParser;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPile;
+use Ling\BeeFramework\Notation\String\LineParser\ExpressionParserPile\ExpressionParserPileInterface;
+use Ling\BeeFramework\Notation\String\LineParser\NotationParser\NotationParserInterface;
+use Ling\BeeFramework\Notation\String\LineParser\NotationParser\SingleExpressionNotationParser;
 
 
 /**

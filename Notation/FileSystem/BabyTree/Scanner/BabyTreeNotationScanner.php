@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\FileSystem\BabyTree\Scanner;
+namespace Ling\BeeFramework\Notation\FileSystem\BabyTree\Scanner;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Component\FileSystem\DirScanner\DirScanner;
-use BeeFramework\Notation\File\BabyDash\Tool\BabyDashTool;
-use BeeFramework\Notation\FileSystem\BabyTree\BabyTreeConst;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Component\FileSystem\DirScanner\DirScanner;
+use Ling\BeeFramework\Notation\File\BabyDash\Tool\BabyDashTool;
+use Ling\BeeFramework\Notation\FileSystem\BabyTree\BabyTreeConst;
 
 
 /**

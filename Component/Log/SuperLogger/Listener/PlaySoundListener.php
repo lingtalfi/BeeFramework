@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SuperLogger\Listener;
+namespace Ling\BeeFramework\Component\Log\SuperLogger\Listener;
 
-use BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
-use Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
+use Ling\BeeFramework\Component\Log\SuperLogger\Message\MessageInterface;
+use Ling\Komin\Sound\ShellSoundPlayer\ShellSoundPlayer;
 
 
 /**

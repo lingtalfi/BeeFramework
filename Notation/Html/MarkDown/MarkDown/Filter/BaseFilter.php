@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Html\MarkDown\MarkDown\Filter;
+namespace Ling\BeeFramework\Notation\Html\MarkDown\MarkDown\Filter;
 
-use BeeFramework\Component\Text\TextConvertor\Filter\TextConvertorFilterInterface;
-use BeeFramework\Notation\Html\MarkDown\MarkDown\MarkDownTextConvertor;
+use Ling\BeeFramework\Component\Text\TextConvertor\Filter\TextConvertorFilterInterface;
+use Ling\BeeFramework\Notation\Html\MarkDown\MarkDown\MarkDownTextConvertor;
 
 
 /**

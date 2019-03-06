@@ -9,18 +9,18 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\Reader;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\Reader;
 
-use BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
-use BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
-use BeeFramework\Notation\File\BabyYaml\Exception\BabyYamlException;
-use BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlNodeTreeBuilder;
-use BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlValueInterpreter;
-use BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
-use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
-use BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
-use BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
-use BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
+use Ling\BeeFramework\Component\Error\CodifiedErrors\Tools\CodifiedErrorsTool;
+use Ling\BeeFramework\Component\Log\SuperLogger\Traits\SuperLoggerTrait;
+use Ling\BeeFramework\Notation\File\BabyYaml\Exception\BabyYamlException;
+use Ling\BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlNodeTreeBuilder;
+use Ling\BeeFramework\Notation\File\BabyYaml\IndentedLines\BabyYamlValueInterpreter;
+use Ling\BeeFramework\Notation\File\IndentedLines\Node\NodeInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertor;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeToArrayConvertor\NodeToArrayConvertorInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\NodeTreeBuilder\NodeTreeBuilderInterface;
+use Ling\BeeFramework\Notation\File\IndentedLines\ValueInterpreter\ValueInterpreterInterface;
 
 
 /**

@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Bat;
+namespace Ling\BeeFramework\Bat;
 
-use BeeFramework\Bat\RowsTool;
-use BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Bat\RowsTool;
+use Ling\BeeFramework\Bat\StringTool;
 
 
 /**

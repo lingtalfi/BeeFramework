@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Application\ServiceContainer\Tool;
+namespace Ling\BeeFramework\Application\ServiceContainer\Tool;
 
-use BeeFramework\Application\ParameterBag\BdotParameterBag;
-use BeeFramework\Application\ParameterBag\ParameterBagInterface;
-use BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
-use BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\Service\Biscotte\BiscotteParser;
+use Ling\BeeFramework\Application\ParameterBag\BdotParameterBag;
+use Ling\BeeFramework\Application\ParameterBag\ParameterBagInterface;
+use Ling\BeeFramework\Application\ServiceContainer\ServiceContainer\ReadableParametersServiceContainer;
+use Ling\BeeFramework\Application\ServiceContainer\ServicePlainCode\ServicePlainCode;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\Service\Biscotte\BiscotteParser;
 
 
 /**

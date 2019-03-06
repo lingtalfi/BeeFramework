@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Mail\SmtpMailer;
+namespace Ling\BeeFramework\Component\Mail\SmtpMailer;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Bat\MimeTypeTool;
-use BeeFramework\Bat\QuoteTool;
-use BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Bat\MimeTypeTool;
+use Ling\BeeFramework\Bat\QuoteTool;
+use Ling\BeeFramework\Chemical\Errors\Voles\VersatileErrorsTrait;
 
 
 /**

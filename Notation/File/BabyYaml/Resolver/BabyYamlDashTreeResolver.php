@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\Resolver;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\Resolver;
 
-use BeeFramework\Bat\QuoteTool;
+use Ling\BeeFramework\Bat\QuoteTool;
 
-use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlInlineReader;
-use BeeFramework\Notation\PhpArray\DashTree\DashTreeNode;
-use BeeFramework\Notation\PhpArray\DashTree\Resolver\VirtualKeyDashTreeResolver;
-use BeeFramework\Notation\String\InlineNotation\InlineNotationTool;
+use Ling\BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlInlineReader;
+use Ling\BeeFramework\Notation\PhpArray\DashTree\DashTreeNode;
+use Ling\BeeFramework\Notation\PhpArray\DashTree\Resolver\VirtualKeyDashTreeResolver;
+use Ling\BeeFramework\Notation\String\InlineNotation\InlineNotationTool;
 
 
 /**

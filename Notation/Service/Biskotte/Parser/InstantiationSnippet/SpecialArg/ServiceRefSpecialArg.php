@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Parser\InstantiationSnippet\SpecialArg;
 
 
 /**

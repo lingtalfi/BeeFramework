@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\Tool;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\Tool;
 
-use BeeFramework\Notation\File\BabyYaml\Resolver\BabyYamlDashTreeResolver;
-use BeeFramework\Notation\File\BabyYaml\Writer\BabyYamlWriter;
-use BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
+use Ling\BeeFramework\Notation\File\BabyYaml\Resolver\BabyYamlDashTreeResolver;
+use Ling\BeeFramework\Notation\File\BabyYaml\Writer\BabyYamlWriter;
+use Ling\BeeFramework\Notation\File\BabyYaml\Reader\BabyYamlReader;
 
 
 /**

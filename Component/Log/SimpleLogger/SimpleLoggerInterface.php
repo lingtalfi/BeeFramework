@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Log\SimpleLogger;
+namespace Ling\BeeFramework\Component\Log\SimpleLogger;
 
 
 /**

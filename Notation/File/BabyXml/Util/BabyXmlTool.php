@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyXml\Util;
+namespace Ling\BeeFramework\Notation\File\BabyXml\Util;
 
-use BeeFramework\Notation\File\BabyXml\Reader\BabyXmlReader;
+use Ling\BeeFramework\Notation\File\BabyXml\Reader\BabyXmlReader;
 
 
 /**

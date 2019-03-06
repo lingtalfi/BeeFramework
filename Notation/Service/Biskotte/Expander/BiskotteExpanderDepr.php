@@ -9,13 +9,13 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Service\Biskotte\Expander;
+namespace Ling\BeeFramework\Notation\Service\Biskotte\Expander;
 
-use BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
-use BeeFramework\Notation\Service\Biskotte\StringParser\MethodCallExpressionDiscoverer;
-use BeeFramework\Notation\Service\Biskotte\StringParser\ResultOfExpressionDiscoverer;
-use BeeFramework\Notation\String\StringParser\ExpressionFinder\CleanStartExpressionFinder;
-use BeeFramework\Notation\String\StringParser\ExpressionFinder\ExpressionFinder;
+use Ling\BeeFramework\Notation\Service\Biskotte\Exception\BiskotteException;
+use Ling\BeeFramework\Notation\Service\Biskotte\StringParser\MethodCallExpressionDiscoverer;
+use Ling\BeeFramework\Notation\Service\Biskotte\StringParser\ResultOfExpressionDiscoverer;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionFinder\CleanStartExpressionFinder;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionFinder\ExpressionFinder;
 use CrazyBeeFramework\MultiByteString\MultiByteStringPositionsTable\Tool\MultiByteStringPositionsTableTool;
 
 

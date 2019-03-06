@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Tool;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Tool;
 
-use BeeFramework\Component\Http\HttpClient\CookieJar\CookieJarInterface;
-use BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\CookieJar\CookieJarInterface;
+use Ling\BeeFramework\Component\Http\HttpClient\Request\HttpRequestInterface;
 
 
 /**

@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Error\CodifiedErrors\Tools;
+namespace Ling\BeeFramework\Component\Error\CodifiedErrors\Tools;
 
 
 /**

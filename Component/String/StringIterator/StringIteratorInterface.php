@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\String\StringIterator;
+namespace Ling\BeeFramework\Component\String\StringIterator;
 
 
 /**

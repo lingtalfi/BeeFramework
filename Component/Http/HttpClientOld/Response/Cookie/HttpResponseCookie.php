@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Http\HttpClient\Response\Cookie;
+namespace Ling\BeeFramework\Component\Http\HttpClient\Response\Cookie;
 
-use BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
+use Ling\BeeFramework\Component\Http\HttpClient\Exception\HttpClientException;
 
 
 /**

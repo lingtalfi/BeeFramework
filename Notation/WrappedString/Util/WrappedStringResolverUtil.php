@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\WrappedString\Util;
+namespace Ling\BeeFramework\Notation\WrappedString\Util;
 
-use BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilCircularException;
-use BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilException;
+use Ling\BeeFramework\Notation\WrappedString\Tool\WrappedStringTool;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilCircularException;
+use Ling\BeeFramework\Notation\WrappedString\Util\Exception\WrappedStringUtilException;
 
 
 /**

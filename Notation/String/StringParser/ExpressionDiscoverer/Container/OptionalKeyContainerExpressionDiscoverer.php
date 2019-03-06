@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
+namespace Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\Container;
 
-use BeeFramework\Bat\VarTool;
-use BeeFramework\Component\String\StringIterator\StringIteratorInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\GreedyExpressionDiscovererInterface;
-use BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModelInterface;
-use BeeFramework\Notation\String\StringParser\Validator\ContainerValidator;
-use BeeFramework\Notation\String\StringParser\Validator\ValidatorInterface;
+use Ling\BeeFramework\Bat\VarTool;
+use Ling\BeeFramework\Component\String\StringIterator\StringIteratorInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscoverer\GreedyExpressionDiscovererInterface;
+use Ling\BeeFramework\Notation\String\StringParser\ExpressionDiscovererModel\ExpressionDiscovererModelInterface;
+use Ling\BeeFramework\Notation\String\StringParser\Validator\ContainerValidator;
+use Ling\BeeFramework\Notation\String\StringParser\Validator\ValidatorInterface;
 
 
 /**

@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Cache\CacheMaster;
+namespace Ling\BeeFramework\Component\Cache\CacheMaster;
 
-use BeeFramework\Bat\FileSystemTool;
-use BeeFramework\Component\Cache\CacheMaster\Exception\CacheMasterException;
+use Ling\BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Component\Cache\CacheMaster\Exception\CacheMasterException;
 
 
 /**

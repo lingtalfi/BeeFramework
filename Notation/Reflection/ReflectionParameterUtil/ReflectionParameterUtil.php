@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\Reflection\ReflectionParameterUtil;
+namespace Ling\BeeFramework\Notation\Reflection\ReflectionParameterUtil;
 
-use BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
-use BeeFramework\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\Adaptor\PhpDocInlineVariableUtilAdaptor;
+use Ling\BeeFramework\Notation\Variable\InlineVariableUtil\InlineVariableUtil;
 
 
 /**

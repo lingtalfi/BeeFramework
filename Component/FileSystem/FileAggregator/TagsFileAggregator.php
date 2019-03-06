@@ -9,11 +9,11 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\FileAggregator;
+namespace Ling\BeeFramework\Component\FileSystem\FileAggregator;
 
-use BeeFramework\Bat\FileTool;
-use BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
-use BeeFramework\Component\FileSystem\Finder\Finder;
+use Ling\BeeFramework\Bat\FileTool;
+use Ling\BeeFramework\Component\FileSystem\Finder\FileInfo\FinderFileInfo;
+use Ling\BeeFramework\Component\FileSystem\Finder\Finder;
 
 
 /**

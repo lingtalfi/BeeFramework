@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\File\BabyYaml\Writer;
+namespace Ling\BeeFramework\Notation\File\BabyYaml\Writer;
 
-use BeeFramework\Bat\FileSystemTool;
+use Ling\BeeFramework\Bat\FileSystemTool;
 
 
 /**

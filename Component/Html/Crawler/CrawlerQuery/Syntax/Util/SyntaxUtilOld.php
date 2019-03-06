@@ -9,12 +9,12 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\Util;
+namespace Ling\BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\Util;
 
-use BeeFramework\Bat\StringTool;
-use BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\AtomicSelector;
-use BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\Phrase;
-use BeeFramework\Component\Html\Crawler\Exception\CrawlerException;
+use Ling\BeeFramework\Bat\StringTool;
+use Ling\BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\AtomicSelector;
+use Ling\BeeFramework\Component\Html\Crawler\CrawlerQuery\Syntax\Phrase;
+use Ling\BeeFramework\Component\Html\Crawler\Exception\CrawlerException;
 
 
 /**

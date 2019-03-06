@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Notation\PhpArray\ArrayWithSelfReferences;
+namespace Ling\BeeFramework\Notation\PhpArray\ArrayWithSelfReferences;
 
-use BeeFramework\Bat\BdotTool;
-use BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\Exception\ArrayWithSelfReferencesCircularException;
+use Ling\BeeFramework\Bat\BdotTool;
+use Ling\BeeFramework\Notation\PhpArray\ArrayWithSelfReferences\Exception\ArrayWithSelfReferencesCircularException;
 
 
 /**

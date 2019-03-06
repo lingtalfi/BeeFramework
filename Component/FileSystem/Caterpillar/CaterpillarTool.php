@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BeeFramework\Component\FileSystem\Caterpillar;
+namespace Ling\BeeFramework\Component\FileSystem\Caterpillar;
 
 
 /**
