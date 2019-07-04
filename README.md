@@ -31,6 +31,10 @@ but there is no official doc for now.
 History Log
 ------------------
     
+- 1.0.2 -- 2019-07-04
+
+    - fix shortcode not allowing optional keys
+    
 - 1.0.1 -- 2017-05-22
 
     - add documentation to the ShortCodeTool
